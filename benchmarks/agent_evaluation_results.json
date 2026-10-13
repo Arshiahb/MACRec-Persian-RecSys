@@ -1,0 +1,2721 @@
+[
+  {
+    "user_id": "530301",
+    "category": "AC",
+    "ground_truth": "item_5",
+    "candidates": [
+      {
+        "item_id": "488169",
+        "title": "Product 488169 (AC)",
+        "comment": "پیشنهاد میکنم برای خرید - 2 ماه دارم - فقط طبق تصاویر نیست - یکم ضمخت تر هست ولی در کل خوبه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "299629",
+        "title": "Product 299629 (AC)",
+        "comment": "خیلی گلس خوبیه به کاملا از صفحه مراقبت میکنه من که خداییش راضیم ازش پیشنهاد میکنم بدید گوشی فروش بیندازه براتون نسبت به گلس قبلی که خیلی گرونتر بود کیفیتش خیلی بهتره",
+        "advantages": [
+          "به خاطر داشتن حاشیه خیلی خوبه",
+          "تقریبا کثیفی و لک روش نمیمونه",
+          "فول کاور"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "335473",
+        "title": "Product 335473 (AC)",
+        "comment": "این شارژر باید حتما با یه کابل قوی و کله شارژر اندروید خوب شارژ بشه. در غیر اینصورت پر نمیشه و مشکل دیگه ای که من باهاش دارم اینه که گاهی وقتا گوشی رو نصفه شارژ میکنه و خاموش میشه و باید دوباره روشنش کرد. خیلی هم سنگینه متاسفانه. اما ظرفیتش واقعیه ولی این قیمت براش اصلا مناسب نیست. من تو پیشنهاد ویژه خریدم بد نیست",
+        "advantages": [
+          "ظرفیت واقعی"
+        ],
+        "disadvantages": [
+          "وزن زیاد"
+        ],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "503265",
+        "title": "Product 503265 (AC)",
+        "comment": "در اپلیکشن emoi بخور و چراغش کار نمیکنه باید دستی فعال بشه.البته برای درست شدن اپلیکشن emoi smart دانلود کنین.در مخزنش هم که قفل نمیشه یکم تو ذوق میزنه.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "558291",
+        "title": "Product 558291 (AC)",
+        "comment": "سیمش نرم نیست که طبیعیه با این جنس سیم خوب شارژ میکنه طولش هم خوبه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_2",
+      "item_1",
+      "item_3",
+      "item_4",
+      "item_5"
+    ],
+    "user_preference_summary": "The user prefers products that offer good value for money, quality performance, and practical features. They seem to prioritize effectiveness and reliability over aesthetics.",
+    "explanation": "Item 2 is ranked highest because it provides excellent protection for screens, is highly recommended by the user, and offers better quality compared to more expensive alternatives. The advantages mentioned align with the user's preference for practical and effective products. Item 1 follows as it is generally good despite being slightly bulkier than expected, which suggests the user values functionality. Item 3 is next due to its realistic capacity but has significant drawbacks like weight and reliability issues. Items 4 and 5 are less favorable due to their lack of strong positive feedback and potential usability concerns.",
+    "selected_recommendation": "item_2",
+    "error": null
+  },
+  {
+    "user_id": "2970115",
+    "category": "AV",
+    "ground_truth": "item_3",
+    "candidates": [
+      {
+        "item_id": "503676",
+        "title": "Product 503676 (AV)",
+        "comment": "کیف عالی و با کیفیتی هست، من برای PS4 گرفتم که عالی بود، حتی دسته ی من که دارای کیبورد هست با وجود کیبورد خیلی خوب جا شد. سپاس",
+        "advantages": [
+          "جنس محکم",
+          "طراحی خوب",
+          "ارزش بالا نسبت به قیمت"
+        ],
+        "disadvantages": [
+          "ندیدم"
+        ],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "616408",
+        "title": "Product 616408 (AV)",
+        "comment": "از اینکه اصل بود خوشم اومد. و بسته بندیش عالی بود. وزن شیشه و فلز رو کاملا میشه حس کنی.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "426812",
+        "title": "Product 426812 (AV)",
+        "comment": "برای من کار میکنه فقط بدونین که قسمت usb فقط برای برقش هست و میتونین بزنین به usb ضبط یا شارژر فندکی و باید با کابلش وصلش کنید به aux برای من که کار میکنه و کیفیتش هم نسبتا خوبه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "562016",
+        "title": "Product 562016 (AV)",
+        "comment": "در کل خوبه ...فقط تصویر کمی ماته",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "446648",
+        "title": "Product 446648 (AV)",
+        "comment": "من 3 روز هست که خریدم.واقعا راضی هستم.هم جنس خوبی داره هم سبک هستش و هم جادار.من پیشنهاد میکنم اگر دنبال یک میز کلاسیک هستین در خریدش شک نکنید.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_1",
+      "item_5",
+      "item_2",
+      "item_3",
+      "item_4"
+    ],
+    "user_preference_summary": "The user prefers high-quality, durable products with good design and value for money. They appreciate functionality and performance, especially in AV-related items.",
+    "explanation": "Item 1 is ranked highest due to its strong build quality, good design, and high value for the price, which aligns well with the user's preference for durable and valuable products. The positive feedback about its compatibility with gaming consoles also suggests it meets the user's functional needs. Item 5 follows closely as it also emphasizes quality and practicality, making it a strong contender.",
+    "selected_recommendation": "item_1",
+    "error": null
+  },
+  {
+    "user_id": "3350320",
+    "category": "BC",
+    "ground_truth": "item_2",
+    "candidates": [
+      {
+        "item_id": "98967",
+        "title": "Product 98967 (BC)",
+        "comment": "برای کسایی که پوستشون خشک می‌شه، این روغن خیلی مناسبه. هم از نظر قیمت هم از نظر نرم‌کنندگی. فقط به نظر من، مدل غیر اسپری‌ای‌ش رو راحت‌تر می‌شه استفاده کرد. فشار دادن این مدل، در حالی که دست چرب شده، سخت می‌شه.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "539224",
+        "title": "Product 539224 (BC)",
+        "comment": "متاسفانه تنها مشکلی که وجود داشت وقتی به دستم رسید مقداری از شامپو ریخته بود تو کارتونش ، چند ساله که از این شامپو استفاده میکنیم عالیه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "550089",
+        "title": "Product 550089 (BC)",
+        "comment": "به پوست بچه ساخت و نسبت به قیمتی که داره خیلی خوبه. ممنونم",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "354149",
+        "title": "Product 354149 (BC)",
+        "comment": "خیلی جالبه واقعا خوشم اومد جا برای کهنه داره و این ویژگی رو داره که از بالای شورت بچه پس نمیده دکمه ها هم کار رو راحت کرده و دیگه نیازی نیست مثل قدیم برای لاستیکی بچه از سنجاق استفاده کرد کاش این کالا دوباره موجود بشه من میخوام دوباره سفارش بدم",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "261731",
+        "title": "Product 261731 (BC)",
+        "comment": "بعد حدود یکسال که دو تا ازش گرفتم هنوز همون تمیزی و زیبایی رو داره برا پستونک های نیپ که بدون دسته هستن هم مناسبه",
+        "advantages": [
+          "کیفیت و زیبایی"
+        ],
+        "disadvantages": [
+          "بستن و باز کردن کمی زمانبر"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_5",
+      "item_2",
+      "item_3",
+      "item_4",
+      "item_1"
+    ],
+    "user_preference_summary": "The user prefers products that offer good value for money and have a proven track record of quality. They are sensitive to product condition upon delivery and appreciate features that enhance usability.",
+    "explanation": "Item 5 is ranked highest because it combines quality and aesthetics, which aligns with the user's appreciation for products that are both functional and visually appealing. The user has shown a preference for items that perform well over time, as indicated by their positive comments on long-term use. Item 2 follows closely, as it has a similar positive history despite a minor delivery issue, reflecting the user's tolerance for minor inconveniences if the product quality is high. Item 3 is also well-received for its value, particularly for children, which resonates with the user's focus on practicality. Item 4 has unique features that enhance usability, but it lacks the strong quality endorsement seen in the top items. Finally, item 1 is ranked lowest due to its less favorable usability comment and lack of strong endorsements.",
+    "selected_recommendation": "item_5",
+    "error": null
+  },
+  {
+    "user_id": "7782519",
+    "category": "DF",
+    "ground_truth": "item_4",
+    "candidates": [
+      {
+        "item_id": "581285",
+        "title": "Product 581285 (DF)",
+        "comment": "پر بسته نخود شپشک بود،کهنه بود،ارزش نداره.......",
+        "advantages": [
+          "ندارد"
+        ],
+        "disadvantages": [
+          "پر بسته نخود شپشک بود"
+        ],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "547299",
+        "title": "Product 547299 (DF)",
+        "comment": "مزه اش رو دوست نداشتم. اندازه اش هم کوچک است. ارزش خرید نداره",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "810860",
+        "title": "Product 810860 (DF)",
+        "comment": "خیلی بد بود",
+        "advantages": [
+          "هیچی"
+        ],
+        "disadvantages": [
+          "همه چی مزه هر چیزی جز قهوه"
+        ],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "469866",
+        "title": "Product 469866 (DF)",
+        "comment": "متاسفانه وقتی کالا به دستم رسید بدنه ی شیشه چرب بود. ایراد دیگه ای ندیدم",
+        "advantages": [
+          "كيفيت ساخت",
+          "خوشمزه است"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "657946",
+        "title": "Product 657946 (DF)",
+        "comment": "سلام من اینو گرفتم اصلا طعم قهوه نمیده خیلی بد مزه است.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_4",
+      "item_1",
+      "item_2",
+      "item_5",
+      "item_3"
+    ],
+    "user_preference_summary": "The user prioritizes quality, aesthetic appeal, and value for money in their purchases, showing a strong sensitivity to product quality and packaging.",
+    "explanation": "Item 4 is ranked highest because it has a positive comment highlighting its quality and taste, which aligns with the user's preference for high-quality products. The other items either have negative comments or lack advantages, making them less favorable.",
+    "selected_recommendation": "item_4",
+    "error": null
+  },
+  {
+    "user_id": "7107361",
+    "category": "FA",
+    "ground_truth": "item_3",
+    "candidates": [
+      {
+        "item_id": "77190",
+        "title": "Product 77190 (FA)",
+        "comment": "خیلی خوشگله واسه خانمم خریدم فقط رنگ فقلش پاک شد اون هم.مشخص نیست",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "439941",
+        "title": "Product 439941 (FA)",
+        "comment": "این کفش سه روز پیش به دستم رسید که واقعا به نظرم عالی هست من قبلا اسکیچرز رنگ دیگه این محصول را گرفته بودم اما اینبار خواستم ایرانی شو امتحان کنم که به نظرم کم نداره از خارجیش از نظر راحتی و طرح و با قیمت یک سوم حداقل ممنون",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "373669",
+        "title": "Product 373669 (FA)",
+        "comment": "قبلا هم از این برند خرید کردم. با این قیمت خیلی خوبه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "654716",
+        "title": "Product 654716 (FA)",
+        "comment": "واقعا ارزش خرید دارد.",
+        "advantages": [
+          "سبکی، مقاوم در برابر اب ،شیک"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "440028",
+        "title": "Product 440028 (FA)",
+        "comment": "عالیه حتما تهیه کنید",
+        "advantages": [
+          "عالی از همه نظر"
+        ],
+        "disadvantages": [
+          "نداره"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_5",
+      "item_4",
+      "item_2",
+      "item_3",
+      "item_1"
+    ],
+    "user_preference_summary": "The user prefers products that are high in quality, value for money, and ease of use, particularly in practical applications.",
+    "explanation": "Item 5 is ranked highest because it is described as 'excellent in every aspect' with no disadvantages, aligning perfectly with the user's preference for high-quality and reliable products. Item 4 follows closely as it is also praised for its value and has specific advantages like being lightweight and stylish. Items 2 and 3 are appreciated for their quality and value, but they do not stand out as much as items 4 and 5. Item 1 is ranked lowest due to a comment indicating a minor issue with the product's color fading, which may suggest a concern for durability.",
+    "selected_recommendation": "item_5",
+    "error": null
+  },
+  {
+    "user_id": "736300",
+    "category": "FF",
+    "ground_truth": "item_1",
+    "candidates": [
+      {
+        "item_id": "792451",
+        "title": "Product 792451 (FF)",
+        "comment": "تازه و با کیفیت بود",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "792767",
+        "title": "Product 792767 (FF)",
+        "comment": "ارسال کاملا به موقع و با رعایت قوانین حمل کالاهای یخچالی بود",
+        "advantages": [
+          "کیفیت خوب",
+          "قیمت خوب",
+          "ارسال عالی"
+        ],
+        "disadvantages": [
+          "ندارد"
+        ],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "857091",
+        "title": "Product 857091 (FF)",
+        "comment": "خیلی خوب و با کیفیته ممنون از دیجی",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "810085",
+        "title": "Product 810085 (FF)",
+        "comment": "عالی",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "828746",
+        "title": "Product 828746 (FF)",
+        "comment": "سلام واقعا از هر نظر عالیه.هم طعم هم کیفیت و هم بسته بندی خوب.با خیال راحت و نداشتن نگرانی در تهیه سوسیس و کالباس از ضایعات گوشت میشه این محصولات را مصرف کرد.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_2",
+      "item_5",
+      "item_3",
+      "item_1",
+      "item_4"
+    ],
+    "user_preference_summary": "The user values quality relative to price, particularly for products suitable for manual gearboxes, and appreciates timely delivery and good packaging.",
+    "explanation": "Item 2 is ranked highest due to its combination of good quality, reasonable price, and excellent delivery, which aligns well with the user's preference for quality and value. Item 5 follows closely as it emphasizes quality and safety in food products, which is important to the user. Items 3, 1, and 4 are also positively reviewed but lack the additional advantages that make items 2 and 5 stand out.",
+    "selected_recommendation": "item_2",
+    "error": null
+  },
+  {
+    "user_id": "1124503",
+    "category": "HA",
+    "ground_truth": "item_2",
+    "candidates": [
+      {
+        "item_id": "108154",
+        "title": "Product 108154 (HA)",
+        "comment": "تا اینجا ازش راضی بودم.سبکه و خیلی سریع چروک ها و میبره. اما متاسفانه خیلی اب ازش چکه میکنه و لباسها خیس میشه.ظرفی هم که اکثر اتوها برای پر کردن محفظه اب دارند و نداره",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "33685",
+        "title": "Product 33685 (HA)",
+        "comment": "بسیار عالی باکیفیت خوش دست همه جوره عالی نصبت به قیمتش",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "180417",
+        "title": "Product 180417 (HA)",
+        "comment": "با توجه به قیمتش هود خوبیه ولی ازش نباید انتظار یه هود ایتالیایی رو داشته باشین! اگر هر دو تا موتورش کار کنه هم صدای زیادی تولید میکنه و هم کلا قیافه نداره. اما بازم تاکید میکنم با توجه به قیمتش ارزش خرید داره چون کاربردیه.",
+        "advantages": [
+          "قدرت قابل قبول"
+        ],
+        "disadvantages": [
+          "صدای زیاد"
+        ],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "428829",
+        "title": "Product 428829 (HA)",
+        "comment": "از این شکلات چند سری خریدم. عالی و سالم بودن؛ اما این بار تامین کننده دیجی کالا محصول رو کاملا پودر شده و غیرقابل مصرف تحویل داده!",
+        "advantages": [],
+        "disadvantages": [
+          "همه پک پودر شده"
+        ],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "135759",
+        "title": "Product 135759 (HA)",
+        "comment": "از هر نظر عالی واقعا جنس محکمی داره",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_2",
+      "item_5",
+      "item_3",
+      "item_1",
+      "item_4"
+    ],
+    "user_preference_summary": "The user prefers high-quality products that offer good value for money. They are sensitive to performance issues and product reliability, as indicated by their negative feedback on poor quality and packaging.",
+    "explanation": "Product 33685 (item_2) is highly rated for its quality and usability relative to its price, aligning with the user's preference for good value. Product 135759 (item_5) is also noted for its excellent quality, making it a strong contender. In contrast, Product 180417 (item_3) has some performance issues but is still considered a good buy for its price. Product 108154 (item_1) has a significant drawback regarding water leakage, which may deter the user. Lastly, Product 428829 (item_4) has a major issue with product quality upon delivery, making it the least favorable option.",
+    "selected_recommendation": "item_2",
+    "error": null
+  },
+  {
+    "user_id": "1193318",
+    "category": "HC",
+    "ground_truth": "item_5",
+    "candidates": [
+      {
+        "item_id": "734619",
+        "title": "Product 734619 (HC)",
+        "comment": "کاربرد آسان و واقعا عملکرد رسوبزدایی داشت.",
+        "advantages": [
+          "براحتی استفاده میشد"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "526900",
+        "title": "Product 526900 (HC)",
+        "comment": "من این محصول رو از دیجی کالا خریداری کردم و بسیار خوب بود",
+        "advantages": [
+          "قیمت مناسب"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "376058",
+        "title": "Product 376058 (HC)",
+        "comment": "هیچ بو و خاصیتی نداره.حتی چند روز اول هم بویی تو ماشین حس نمیکنید.باید کاملا نزدیک بینی بگیرید تا شاید بوی اندکی حس کنید کاملا حیف پول. از بولزوان بعیده همچین جنس بی کیفیتی",
+        "advantages": [
+          "ظاهر شکیل و زیبا"
+        ],
+        "disadvantages": [
+          "رایحه ضعیف"
+        ],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "727455",
+        "title": "Product 727455 (HC)",
+        "comment": "کیفیت بسیار عالی",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "458032",
+        "title": "Product 458032 (HC)",
+        "comment": "تو شگفت انگیز اگه بخرین خیلی برد کردین",
+        "advantages": [
+          "خوب تمیز میکنه"
+        ],
+        "disadvantages": [
+          "ندیدم"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_4",
+      "item_1",
+      "item_5",
+      "item_2",
+      "item_3"
+    ],
+    "user_preference_summary": "The user values quality and performance, as indicated by their satisfaction with products that have good functionality and aesthetics. They are less concerned about appearance if the product performs well.",
+    "explanation": "Item 4 is ranked highest due to its mention of 'very high quality' without any noted disadvantages, aligning with the user's preference for quality. Item 1 follows closely as it offers easy usability and effective performance, which the user appreciates. Item 5 is also favorable for its cleaning ability, while Item 2 is a good value but lacks specific performance details. Item 3 is rated lowest due to its weak scent, which the user explicitly dislikes.",
+    "selected_recommendation": "item_4",
+    "error": null
+  },
+  {
+    "user_id": "7926579",
+    "category": "HW",
+    "ground_truth": "item_1",
+    "candidates": [
+      {
+        "item_id": "487945",
+        "title": "Product 487945 (HW)",
+        "comment": "تازه به دستم رسید واقعا زیبا و شیک و محکمه بسته بندی ام عالی بود فقط یه نکته که دور قابلمه ها یجور جنس نرم پلاستیوی داره نگرانم اون ئ یه مدت استفلده رنگ غذا بگیره شایدم نگیرا صرفا فقط یه حدس بود",
+        "advantages": [
+          "طراحی بسیار زیبا و ایمن"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "164133",
+        "title": "Product 164133 (HW)",
+        "comment": "این چاقو واقعا تیزه و اولین باری که ازش استفاده کردم بدجوری دستم رو برید قبلا از برند جرو خرید کرده بودم و کیفیت فوق العاده ای داره نه کند میشه نه خراب",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "595727",
+        "title": "Product 595727 (HW)",
+        "comment": "دور تور پاره شده و کیفیت تور واقعا افتضاحه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "83808",
+        "title": "Product 83808 (HW)",
+        "comment": "کیفیت عالی است ولی نسبت به سایر مارک ها همیشه خیلی گران تر است",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "323789",
+        "title": "Product 323789 (HW)",
+        "comment": "خوشدست و زیباست",
+        "advantages": [
+          "کیفیت خوب"
+        ],
+        "disadvantages": [
+          "نداره"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_1",
+      "item_2",
+      "item_5",
+      "item_4",
+      "item_3"
+    ],
+    "user_preference_summary": "The user prefers aesthetically pleasing and high-quality products, with a sensitivity to durability and functionality.",
+    "explanation": "The top recommendation is Product 487945 because the user appreciates beautiful and sturdy designs, as indicated by their positive comments on aesthetics and functionality in previous purchases. The product's advantages of being visually appealing and safe align well with the user's preferences for daily use items that are both attractive and practical.",
+    "selected_recommendation": "item_1",
+    "error": null
+  },
+  {
+    "user_id": "1152044",
+    "category": "IT",
+    "ground_truth": "item_3",
+    "candidates": [
+      {
+        "item_id": "543627",
+        "title": "Product 543627 (IT)",
+        "comment": "من این اسپیکرو ۱ ماه پیش خریدم واقعا با این قیمت هیچ اسپیکری به پاش نمیرسه البته اینم بگم که چینی هستش . صداش خیلی خبی داره شاید بگم اندازه یه تلوزیونه",
+        "advantages": [
+          "صدای بلند با توان 20 وات واقعی",
+          "کیفیت صدا عالی"
+        ],
+        "disadvantages": [
+          "جنس بدنش یه کم ضعیفه و اگه ضربه بخوره احتمال سالم موندنش کمه ولی کلا عالیه"
+        ],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "334388",
+        "title": "Product 334388 (IT)",
+        "comment": "دوربین فوق العاده خوبیه کیفیت تصویر و امکاناتش حرف نداره ایرادی که داره ۱. حافظه کمی را ساپورت میکنه ۳۲ فقط دو روز ضبط میکنه ولی البته فضای ابری میشه بخرید ولی تو ایران نمیدونم جواب بده یا نه ۲. تو حالت انتخاب چنده سوژه برای فیلم برداری در مدت طولانی بعد از برگشت به سوژه قبلی زاویه را به علت چرخش زیاد اشتباه میکند و بهتر است این حالت را انتخاب نکنید. ۳. با رفتن برق خاموش میشه که با یه پاور بانک مشکلش حل میشه. امیدوارم تونسته باشم تجربه خریدم ، به شما در انتخاب این دوربین کمک کرده باشه.",
+        "advantages": [
+          "کیفیت تصویر",
+          "پیام رد شدن سوژه",
+          "بیسیم",
+          "چرخش ۳۶۰ درجه"
+        ],
+        "disadvantages": [
+          "پشتیبانی کم اس دی کارت"
+        ],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "48920",
+        "title": "Product 48920 (IT)",
+        "comment": "خوب و مناسب",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "763175",
+        "title": "Product 763175 (IT)",
+        "comment": "جنسش مات نیست و روغنی هست که برای نظافت کیبورد نکته مثبتی هست..من تو عکس فکر میکردم برچسب ها اندازه کلیدهای کیبرد لپتاپ باشه ولی خوب برش ندادن و جوری برش داده شده که اندازه هر برچسب کوچکتر از شکلی که در تصویر میبینید درمیاد. در کل شاد و زیبا هست و لپتاپ را بسیار فانتزی میکنه.",
+        "advantages": [
+          "زیبا",
+          "جنس روغنی و قابل نظافت"
+        ],
+        "disadvantages": [
+          "کوچک تر از کلیدها"
+        ],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "459804",
+        "title": "Product 459804 (IT)",
+        "comment": "اصلا جالب نبود",
+        "advantages": [],
+        "disadvantages": [
+          "wdr بسیار ضعیف",
+          "منو ندارد تنضیمات صفر",
+          "لنز نه چندان با کیفیت و ناشناس",
+          "محل جانپرها جهت تتظیمات افتضاح"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_1",
+      "item_2",
+      "item_3",
+      "item_4",
+      "item_5"
+    ],
+    "user_preference_summary": "The user prefers products that are good value for money, with a focus on quality and functionality. They appreciate products that perform well within their price range.",
+    "explanation": "Product 543627 is ranked highest due to its excellent sound quality and loudness, which aligns with the user's preference for good performance at a reasonable price. Despite its weaker build quality, the overall positive feedback suggests it meets the user's expectations for value. Product 334388 follows closely, offering great image quality but has some limitations regarding memory support, which may be a concern for the user. The other products either lack sufficient advantages or have significant disadvantages that make them less appealing.",
+    "selected_recommendation": "item_1",
+    "error": null
+  },
+  {
+    "user_id": "4081033",
+    "category": "MA",
+    "ground_truth": "item_5",
+    "candidates": [
+      {
+        "item_id": "772534",
+        "title": "Product 772534 (MA)",
+        "comment": "خودتون دیگه زیاد استفاده کردین می دونین که خوبه دیگه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "591758",
+        "title": "Product 591758 (MA)",
+        "comment": "در کل جامدادی خوبی است ولی شاید قیمتش زیاد باشد.",
+        "advantages": [],
+        "disadvantages": [
+          "کم جا"
+        ],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "457160",
+        "title": "Product 457160 (MA)",
+        "comment": "تخته وایت بورد خوبی هست البته با این قیمت جدید اصلا ارزش خرید نداره متاسفانه تخته ای که دیجی کالا برای من فرستاده بود چندجا تو رفتگی داشت.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "197072",
+        "title": "Product 197072 (MA)",
+        "comment": "خیلی خوب بود ای کاش باز هم توی دیجی کالا موجود بشه چون تازه یکی برا آزمایش گرفته بودم تو بازار هم که به این راحتیا پیدا نمیشه",
+        "advantages": [
+          "استحکام بالا"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "172505",
+        "title": "Product 172505 (MA)",
+        "comment": "خیلی خاص وزیباست",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_1",
+      "item_4",
+      "item_5",
+      "item_2",
+      "item_3"
+    ],
+    "user_preference_summary": "The user prefers products with good color and quality, showing a strong appreciation for aesthetics and durability.",
+    "explanation": "The top recommendation is item_1 because the user has a history of recommending products based on their color and quality. The comment for item_1 suggests it is well-known for being good, which aligns with the user's preference for quality. Item_4 follows closely due to its noted high durability, which is another aspect the user values. Item_5 is also aesthetically pleasing, matching the user's taste for beautiful products. Items 2 and 3 are less favorable due to concerns about size and value, which do not align with the user's demonstrated preferences.",
+    "selected_recommendation": "item_1",
+    "error": null
+  },
+  {
+    "user_id": "3307540",
+    "category": "MO",
+    "ground_truth": "item_3",
+    "candidates": [
+      {
+        "item_id": "117313",
+        "title": "Product 117313 (MO)",
+        "comment": "حدود یک سال است از این محصول استفاده میکنم در کل راضی نیستم چون از روز اول بعضی وقتها صفحه لمسی از کار میفته و مجبورم با کلید اصلی صفحه را خاموش و دوباره روشن کنم تا صفحه لمسی کار کنه. وقتی دارم با اینترنت کار میکنم یهو ارتباط قطع میشه و گوشی رو باید ریستارت کنم تا به کار بیفته. اما دوربین گوشی خوب و با کیفیته و نسبت به گوشی های دیگه مقاومتره ایرادهایی که گفتم از روز اول بود. حافظه داخلی که نوشتن 16 گیگابایت الکیه چون حافظه داخلی فقط 10 گیگابایته",
+        "advantages": [
+          "مقاومت بیشتر نسبت به ضربه نسبت به سایر گوشی ها",
+          "امکانات مناسب نسبت به قیمت",
+          "دوربین قوی و باکیفیت"
+        ],
+        "disadvantages": [
+          "صفحه لمسی گاهی اوقات هنگ میکند و باید با کلید خاموش و روشن کنید تا از هنگ خارج شود",
+          "خیلی وقتها به اینترنت متصل نمیشود و باید ریستارت کنید"
+        ],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "591597",
+        "title": "Product 591597 (MO)",
+        "comment": "سلام، اول که گوشی بدستم رسید روشن نشد و زدمش که شارژ بشه، فکر میکنم شارژرش مال خود شرکتش نیست، برای همین خیلی داغ کرده بود. در حالی که وقتی وصل کردم به لپ تاپ هم شارژ شد و هم داغ نشد انقدر. تا اینجا من ازش راضی بودم. کیفیت تصویربرداری - کیفیت نمایش تصاویر و ویدیوها همه بالا و در سطح رضایت بخشی هستش. من کیندل آمازون رو نصب کردم و اگه نورش رو کم کنید موقع کتاب خوندم هم انقدر چشمتون رو اذیت نمیکنه.",
+        "advantages": [
+          "طراحی ساده و شیک"
+        ],
+        "disadvantages": [
+          "تا امروز با چیزی مواجه نشدم"
+        ],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "71462",
+        "title": "Product 71462 (MO)",
+        "comment": "3 سال استفاده کردم عالی بود",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "776766",
+        "title": "Product 776766 (MO)",
+        "comment": "موتورولا واقعا گوشی خاصی هستش. البته از وقتی در اختیار شرکت چینی لنوو دراومده کیفیت محسوسی در پشتیبانی و کیفیت ساخت داره اما همچنان گوشی دوست داشتنی هست. من حدود 5 ساله که از گوشی های مختلف موتورولا استفاده می کنم و نمیتونم به گوشی دیگه ای مهاجرت کنم",
+        "advantages": [
+          "قیمت خوب",
+          "ظاهر شیک",
+          "پشتیبانی از تعداد زیادی از ماژول ها"
+        ],
+        "disadvantages": [
+          "داشتن حاشیه ها در بالا و پایین"
+        ],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "777765",
+        "title": "Product 777765 (MO)",
+        "comment": "من امروز خریدم گوشی خوبیه ولی یک اشکال بزرگ داره اگه ۲تا سیم کارت بزارید مموری نمیخوره و اگه مموری بزارید یه سیم کارت میخوره دوربینش بعد نیست اما توصیه میکنم مدل موتو۶ رو بگیرید اگه دوربین براتون مهمه ولی ازش راضیم",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_3",
+      "item_4",
+      "item_2",
+      "item_1",
+      "item_5"
+    ],
+    "user_preference_summary": "The user prefers durable and reliable products with good camera quality. They are sensitive to functionality issues and prioritize overall performance and brand reputation.",
+    "explanation": "Product 71462 is ranked highest due to the user's positive experience over three years, indicating high durability and reliability. This aligns with the user's preference for products that perform well over time. Product 776766 follows, as it offers a good price and stylish design, which may appeal to the user's brand loyalty. Product 591597 is next, as it has satisfactory performance and design, but lacks significant user feedback on long-term reliability. Product 117313 is lower due to reported functionality issues, which the user seems sensitive to. Finally, Product 777765 is ranked last due to its significant limitation regarding SIM and memory card usage, which could be a dealbreaker for the user.",
+    "selected_recommendation": "item_3",
+    "error": null
+  },
+  {
+    "user_id": "7466095",
+    "category": "PA",
+    "ground_truth": "item_2",
+    "candidates": [
+      {
+        "item_id": "120503",
+        "title": "Product 120503 (PA)",
+        "comment": "من دو سال پیش خریدم از دیجی کالا، این مدت هم ازش استفاده مکرر داشتم. آخ نگفته. فقط یک بار باز کردم تمیز کردم و روغن زدم",
+        "advantages": [
+          "همه چی"
+        ],
+        "disadvantages": [
+          "هیچی"
+        ],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "461243",
+        "title": "Product 461243 (PA)",
+        "comment": "من واس برادرم کادو گرفتم ازش راضیه و توی این سه ماه مشکلی واسش پیش نیومده ظاهرش هم خوب و شیکه دوستانی که در این حد میخوان هزینه بکنن این مدل کیفتش خوبه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "377484",
+        "title": "Product 377484 (PA)",
+        "comment": "دوتا تیقه داره یکیش تیزه یکیش نه خیلی کنه نسبت به قیمتش می ارزه کار راه اندازه البته اگه خراب نشه زود من تازه خریدم و فقط تستش کردم",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "751946",
+        "title": "Product 751946 (PA)",
+        "comment": "خوبه بد نی",
+        "advantages": [
+          "زیبا بودن"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "104647",
+        "title": "Product 104647 (PA)",
+        "comment": "همه چی عالیه پیشنهاد می کنم اگه قصد خرید یه ترازوی دقیق و در عین حال مدرن رو دارید شک نکنید که از دستتون رفته،فقط یه چیز اونم اینکه توی جعبه دستگاه جای خالی باتری مشاهده میشه که این امر جای تامل دارد...",
+        "advantages": [
+          "زیبا و دوست داشتنی",
+          "قابلیت های محاسباتی توسط نرم افزار",
+          "کیفیت ساخت بسیار بالا"
+        ],
+        "disadvantages": [
+          "جای قرار گرفتن باتری در بسته بندی خالیست و دستگاه ژلمب نمی باشد!"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_5",
+      "item_1",
+      "item_2",
+      "item_4",
+      "item_3"
+    ],
+    "user_preference_summary": "The user prefers aesthetically pleasing products that offer good value for money and have a solid build quality. They appreciate recommendations and tend to favor items that are well-reviewed by others.",
+    "explanation": "Item 5 is ranked highest due to its excellent build quality, modern design, and advanced features, which align with the user's preference for beauty and functionality. The user has shown a strong inclination towards products that are visually appealing and well-recommended, making this item the best fit.",
+    "selected_recommendation": "item_5",
+    "error": null
+  },
+  {
+    "user_id": "4125456",
+    "category": "PC",
+    "ground_truth": "item_5",
+    "candidates": [
+      {
+        "item_id": "670728",
+        "title": "Product 670728 (PC)",
+        "comment": "توشگفت انگیز عالیه رنگ مو رو بهتر می کنه دقت کنید برای موهای روشنه",
+        "advantages": [
+          "برای موهای روشن است"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "759446",
+        "title": "Product 759446 (PC)",
+        "comment": "کاش زودتربا این محصول آشنا میشدم .این محصول مشکل سفیدی موی من رابه خوبی حل کرد.من همیشه ریشه موهام به سرعت رشد میکرد و سفیدی ریشه ها اذیتم میکرد.چون ریشه ها هم زیاد بلند نشده بود هر ماه رنگ کردن آن سخت بود با این محصول مشکل من به طور کامل حل شد.دردسر رنگ هم ندارم.از دیجی کالابابت این محصول متشکرم",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "588632",
+        "title": "Product 588632 (PC)",
+        "comment": "خیلی راضیم مخصوصا رولی بودنش استفاده ش رو راحت تر کرده",
+        "advantages": [
+          "خیلی خوبه مخصوصا که رولی هست و استفاده ش رو راحت تر کرده"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "18242",
+        "title": "Product 18242 (PC)",
+        "comment": "سلام من این شونه رو چند وقتی هست خریدم اصلا بدرد نمی خوره سفت با چوب شونه کنی بهتر اگه بگیری پولت انداختی سطل اشغال منم سر همون یه نظر خوب خریدم تو نخر خانوم یا اقای عزیز",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "688640",
+        "title": "Product 688640 (PC)",
+        "comment": "من این عطر رو از دیجی گرفتم و واقعا بینظیر هست",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_5",
+      "item_2",
+      "item_3",
+      "item_1",
+      "item_4"
+    ],
+    "user_preference_summary": "The user has a strong preference for high-quality, long-lasting products, particularly in the fragrance category. They value unique and special items and have a positive experience with products that solve specific problems.",
+    "explanation": "Item 5 is ranked highest because it aligns closely with the user's expressed preference for unique and exceptional fragrances, as indicated by their previous comments about the distinctiveness and quality of perfumes. The user has shown a clear appreciation for products that stand out and have excellent longevity, which this item embodies. Item 2 follows as it addresses a specific hair issue effectively, which may resonate with the user's desire for practical solutions, while item 3 offers convenience with its roll-on feature. Items 1 and 4 are less aligned with the user's preferences, with item 4 receiving a negative review, indicating it is not a good fit.",
+    "selected_recommendation": "item_5",
+    "error": null
+  },
+  {
+    "user_id": "4536417",
+    "category": "TC",
+    "ground_truth": "item_2",
+    "candidates": [
+      {
+        "item_id": "297805",
+        "title": "Product 297805 (TC)",
+        "comment": "با توجه به قیمتش کیفیت خوب و قابل قبولی داره نصب کردم و خیلی راضی ام عمکردش خیلی خوبه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "400425",
+        "title": "Product 400425 (TC)",
+        "comment": "در کل خوبه. بدرد کار سنگین نمیخوره. در حد جزیی کاری خوبه. قدرتش بد نیست.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "460168",
+        "title": "Product 460168 (TC)",
+        "comment": "وقتی جعبه رو باز کردم معلوم بود جنس خوبیه،ولی باید باهاش کار کرد تا نظر قطعی رو دربارش داد",
+        "advantages": [
+          "جنسش ب ظاهر ک خوبه"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "390757",
+        "title": "Product 390757 (TC)",
+        "comment": "بسیار لامپ خوبیه و من حدود سه ماهه که خریدم و بسیار نوردهی خوبی داره برای لوستر خوبه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "621529",
+        "title": "Product 621529 (TC)",
+        "comment": "من مرداد ماه خریدم به قیمت الانم خیلی راضی هستم واقعا عالی وبا دوام است من یه سراهس سر راه خروجی گژاشتم ازش برای سه وسیله پر مصرف همزمان یخچال از خروجی دستگاه وپلوپز ماشین ظرفشویی ولباسشویی از پورت بعدی گرفتم واقعا بدون مشکل گرم کردن سیم یا خود دستگاه بسیا راضی",
+        "advantages": [
+          "عالی"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_5",
+      "item_3",
+      "item_1",
+      "item_2",
+      "item_4"
+    ],
+    "user_preference_summary": "The user prefers high-quality products with good performance and ease of use. They value durability and functionality, especially for heavy-duty tasks.",
+    "explanation": "Item 5 is ranked highest due to the user's emphasis on quality and performance, as evidenced by their satisfaction with its durability and ability to handle multiple devices simultaneously without issues. Item 3 follows because it suggests good material quality, which aligns with the user's preference for well-made products. Item 1 is next, as it offers good quality for the price, which is important to the user. Item 2 is less favorable due to its limited suitability for heavy work, and item 4 ranks lowest as it does not directly relate to the user's expressed needs.",
+    "selected_recommendation": "item_5",
+    "error": null
+  },
+  {
+    "user_id": "2617968",
+    "category": "TS",
+    "ground_truth": "item_4",
+    "candidates": [
+      {
+        "item_id": "669808",
+        "title": "Product 669808 (TS)",
+        "comment": "سایزش بزرگتر از دستم هست و خیلی خیلی در تمرینات بدردم خورد دستکش قبلی اندازه کف دستم بود و به این اندازه اثرگذار نبود",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "254335",
+        "title": "Product 254335 (TS)",
+        "comment": "طراحی بسیار عالی یکساله این عینکو خریدم خیلی راضیم ازش ،از نقاط قوت میشه به ضد بخار بودنو خارج نشدن در هنگام شیرجه اشاره کرد،فقط تنها مشکل عینک من اینه واسه فضای باز طراحی شده چون من رنگ ابیشو گرفتم،که بقیه نقاط قوتش این ضعفشو میپوشونه",
+        "advantages": [
+          "طراحی زیبا",
+          "شیشه ضد بخار"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "216852",
+        "title": "Product 216852 (TS)",
+        "comment": "2 ساله برای برادر زاده خریدم و ماشالله هنوز از کیفیت خوبی برخورداره",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "317579",
+        "title": "Product 317579 (TS)",
+        "comment": "وقتی تخفیف میخوره و اینکه میاد دم در خونت می صرفه خریدش و رنگ نقره اش رو اصلا دوست ندارم ولی برام جالبه که رنگ نقره ایش از همه رنگاش گرونتره",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "131103",
+        "title": "Product 131103 (TS)",
+        "comment": "برای یه پیک نیک دو نفره خوبه .",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_2",
+      "item_3",
+      "item_1",
+      "item_4",
+      "item_5"
+    ],
+    "user_preference_summary": "The user values quality and functionality in products, showing a preference for items that are well-designed and effective for their intended use. They also appreciate good deals and discounts.",
+    "explanation": "Item 2 is ranked highest due to its excellent design and functionality, specifically its anti-fog feature, which aligns with the user's preference for quality and effective products. The user has shown satisfaction with items that perform well and have a good design, making this item a strong match. Item 3 follows closely as it has proven durability over time, which is also a significant factor for the user. Items 1, 4, and 5 are less favored due to either less compelling comments or less relevance to the user's expressed needs.",
+    "selected_recommendation": "item_2",
+    "error": null
+  },
+  {
+    "user_id": "2346792",
+    "category": "AC",
+    "ground_truth": "item_4",
+    "candidates": [
+      {
+        "item_id": "419307",
+        "title": "Product 419307 (AC)",
+        "comment": "تاج گوشی بعد از بستن واچ روی دست کار نمیکنه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "617792",
+        "title": "Product 617792 (AC)",
+        "comment": "این پاوربانک کاملترین دستگاهی هست که تاالان تو بازار دیدم به نسبت قیمتش و بخاطر داشتن یک سری تکنولوژی های خاص اون رو خریدم 1-این دستگاه 1 چیپست داره که توسط اون گوشی شمارو شناسایی میکنه ، اگر گوشی شما از شارژ سریع پشتیبانی کنه چراغ نمایشگر روی بدنه به رنگ نارنجی در میاد و دستگاه شما رو سریعتر شارژ میکنه البته بایدگوشیتونو به پورت نارنجی رنگ پاور بانک وصل کنید و اگر گوشی شما از شارژسریع پشتیبانی نکنه رنگ چراغ نمایشگر سفید میشه و بصورت معمولی شارژ میکنه 2-سازگاری با گوشیهای جدید آیفون سامسونگ هوآوی رو داره البته دیجی تو توضیحاتش کامل نوشته و نوع چیپست رو هم توضیح داده 3-خروجی پورت type-c که هم میتونید خود پاوربانکو شارژ کنید هم انواع گوشی و تبلت که فعلا شاید به کار نیاد ولی هر چی جلوتر میریم بیشتر این پورت مطرح داره میشه 4-شارژشدن سریع خود پاوربانک 5-تمام محافظهای امنیتی رو داره 6-طراحی بدنه طوری هستش که اگر مدت زیادی تو دستتون بگیرید عرق نمیکنه در کل فکر میکنم برای من که خیلی حساس هستم روی این لوازمم خیلی پاوربانک مناسبی باشه و تا الان مشکلی نداشتم",
+        "advantages": [
+          "بدنه و طراحی ساخت عالی",
+          "سیستم شناسایی هوشمند",
+          "پشتیبانی از شارژ سریع",
+          "ورودی و خروجی type-c"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "736402",
+        "title": "Product 736402 (AC)",
+        "comment": "کثیفی می مونه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "834862",
+        "title": "Product 834862 (AC)",
+        "comment": "بهترین محافظ برای میت 10 همینه",
+        "advantages": [
+          "دورتا دورگوشی میگیره",
+          "و جنس محکمی داره",
+          "شکل خوبی داره"
+        ],
+        "disadvantages": [
+          "قیمت زیاد",
+          "گلاسش زیاد تعریفی نداره"
+        ],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "607594",
+        "title": "Product 607594 (AC)",
+        "comment": "بسیار زیبا و بسیار بی دوام.",
+        "advantages": [
+          "طراحی بسیار زیبا",
+          "قیمت مناسب"
+        ],
+        "disadvantages": [
+          "بسیار کم دوام (پس از کمتر از 10 بار درآوردن خراب شد)",
+          "عدم امکان انتقال اینترنت موبایل از طریق USB",
+          "در هنگام کار حرارت گوشی سریعتر بالا میرود"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_2",
+      "item_4",
+      "item_5",
+      "item_1",
+      "item_3"
+    ],
+    "user_preference_summary": "The user prefers high-quality, multifunctional products with good design and performance. They are sensitive to durability and functionality, particularly in electronic devices.",
+    "explanation": "Product 617792 (item_2) is ranked highest because it offers a comprehensive set of features including smart charging, compatibility with various devices, and a well-designed body that prevents overheating. The user has shown a preference for quality and functionality in their previous interactions, making this power bank a suitable choice. Additionally, it has no reported disadvantages, which aligns with the user's sensitivity to quality.",
+    "selected_recommendation": "item_2",
+    "error": null
+  },
+  {
+    "user_id": "4193598",
+    "category": "AV",
+    "ground_truth": "item_4",
+    "candidates": [
+      {
+        "item_id": "691396",
+        "title": "Product 691396 (AV)",
+        "comment": "با سلام.دستگاه خوبیه و در عین حال کار باهاش بسیار ساده هست و کیفیت بالایی داره",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "356829",
+        "title": "Product 356829 (AV)",
+        "comment": "محصول خوبیه از هر نظر ، خریدش رو پیشنهاد میکنم",
+        "advantages": [
+          "-------"
+        ],
+        "disadvantages": [
+          "------"
+        ],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "739669",
+        "title": "Product 739669 (AV)",
+        "comment": "خیلی با کیفیت عالی شما هم حتما بخرید بلوتوث داره USBهم داره هردو با سرعت بالا وصل میشن اگر رنگ های دیگه هم داشت عالی میشد الانم رنگ مهم نیست کیفیت دسته عالیه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "453685",
+        "title": "Product 453685 (AV)",
+        "comment": "من 3 ماه منتظر این کالا بودم تا موجود شه و خریداری کنم چون تو بازارم موجود نبود همونطور که انتظار داشتم عالی بود و ارزش صبر کردن رو داشت از لحاظ کیفیت اصلا قابل قیاس با کار بلوتوث های بازار نیست. حتی نمونه های گرونتر هم در مقابل این مدل حرفی برای گفتن ندارن میکرفونش بر خلاف بسیاری از مدل های مشابه به شدت کار آمد و عالیه و صدا رو بسیار واضح و رسا میرسونه از روی کار بلوتوث میتونید آهنگ رو تعویض یا پخش و استوپ کنید. همچنین میتونید به تماس هاتون جواب بدید فقط دو تا مشکل بسیار ریز داره. یکی اینکه وقتی ماشینو روشن میکنید خود به خود روشن نمیشه که هم خوبه هم بد. اما من ترجیح میدادم خود به خود روشن میشد. چون اتصالش در صورت روشن بودن بلوتوث گوشی در کسری از ثانیه انجام میشه اگر همزمان با ماشین هم روشن میشد دیگه عالی بود. یه ایراد دیگش کابلاشه. نه انقدر بلند زدن که قشنگ بشه از جاهایی رد کرد که دیده نشه. نه انقدر کوتاهه که جلوی دست و پا نباشه غیر از این دو مورد هیچ مشکل دیگه ای نداره! موفق باشید.",
+        "advantages": [
+          "کیفیت ساخت بسیار بالا",
+          "طراحی جذاب و دوست داشتنی",
+          "امکان انجام برخی از فرامین بدون نیاز به گوشی",
+          "میکروفون با دقت بسیار بالا"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "468956",
+        "title": "Product 468956 (AV)",
+        "comment": "عالی زیبا شیک پرقدرت",
+        "advantages": [
+          "ندارد"
+        ],
+        "disadvantages": [
+          "عالی"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_4",
+      "item_3",
+      "item_1",
+      "item_2",
+      "item_5"
+    ],
+    "user_preference_summary": "The user values high-quality construction, ease of use, and aesthetic appeal in products, with a preference for items that offer good functionality and performance.",
+    "explanation": "Item 4 is ranked highest due to its exceptional build quality, attractive design, and advanced features such as a high-precision microphone and the ability to control music and calls without needing a phone. The user has shown a strong preference for quality and functionality in their past interactions, making this item the best fit.",
+    "selected_recommendation": "item_4",
+    "error": null
+  },
+  {
+    "user_id": "3894298",
+    "category": "BC",
+    "ground_truth": "item_1",
+    "candidates": [
+      {
+        "item_id": "207541",
+        "title": "Product 207541 (BC)",
+        "comment": "ما خیلی وقته از این شامپو استفاده میکنیم حرف نداره من خودم هم صورتمو با این میشورم",
+        "advantages": [
+          "نرم و لطیف میکنه",
+          "چرب نمیکنه"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "117676",
+        "title": "Product 117676 (BC)",
+        "comment": "برخلاف دوستی که گفته بودند محصول چینی هستش من چندین جا بردم و تایید شد حتی زیر نظر پزشکان معتبر و دیشب دخترم بعد سه ماه ک درد های کولیک شدید داشت تا ۶ صبح بیدار بود ارام بود واقعا ارزش داره",
+        "advantages": [
+          "برای کولیک عالی هستش"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "702151",
+        "title": "Product 702151 (BC)",
+        "comment": "شیشه خوبیه در کل",
+        "advantages": [
+          "به صورت عادی شیر ازش نمی ریزه مگر اینکه نوک شیشه رو محکم به جایی بزنند"
+        ],
+        "disadvantages": [
+          "اگر شماره هاش خواناتر بود بهتر بود"
+        ],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "177770",
+        "title": "Product 177770 (BC)",
+        "comment": "واقعآ شامپوی خوب و قابل قبولیه من چون مو کاشتم فقط شامپو بچه استفاده میکنم الان من و پسرم استفاده میکنیم که واقعآ راضی کنندس من ۱۵ تا تو شگفت سفارش دادم",
+        "advantages": [
+          "دو كاره بدن و سر"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "404828",
+        "title": "Product 404828 (BC)",
+        "comment": "خیلی شامپوی خوبیه پیشنهاد میکنمش",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_4",
+      "item_1",
+      "item_2",
+      "item_5",
+      "item_3"
+    ],
+    "user_preference_summary": "The user values products that are lightweight, durable, and offer good value for money. They appreciate items that are effective and have positive reviews regarding their performance.",
+    "explanation": "Item 4 is ranked highest because it is described as a very good and acceptable shampoo that is suitable for both adults and children, which aligns with the user's preference for versatile and effective products. The user has shown a tendency to appreciate items that are well-reviewed for their performance, and this product has garnered positive feedback. Item 1 follows closely as it is also well-regarded for its effectiveness and gentle properties, making it a strong contender. Item 2 is valuable for its specific use case for colic, which may appeal to the user if they have similar needs. Item 5 is recommended but lacks specific advantages, placing it lower. Item 3, while noted as a good bottle, has a disadvantage regarding readability, making it the least favorable option.",
+    "selected_recommendation": "item_4",
+    "error": null
+  },
+  {
+    "user_id": "2450251",
+    "category": "DF",
+    "ground_truth": "item_5",
+    "candidates": [
+      {
+        "item_id": "506579",
+        "title": "Product 506579 (DF)",
+        "comment": "بافت و طعم و بوی بسیار مطبوعی دارد. واقعا از خریدم راضی هستم.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "581110",
+        "title": "Product 581110 (DF)",
+        "comment": "با ترکیب این محصول با موادم کباب خوش طعم درست شد مواد: فلفل سیاه فلفل قرمز چاشنی کباب گلستان گرد غوره پودر آویشن پودر موسیر پودر سیر سس مایونز ماست پرچرب پیاز ۲ عدد بزرگ فلفل دلمه ای روغن آبلیمو پودر عصاره بره روغن مایع ۲ روز در یخچال",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "675832",
+        "title": "Product 675832 (DF)",
+        "comment": "پذیرایی شکیل",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "667644",
+        "title": "Product 667644 (DF)",
+        "comment": "طعم و بوی خوب.....",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "790238",
+        "title": "Product 790238 (DF)",
+        "comment": "من تا حالا اینو نخورده بودم ولی واقعا یه تجربه جدید و خوشمزه بود . آفرین به این ابتکار . به همه پیشنهاد میکنم",
+        "advantages": [
+          "واقعا یه تجربه جدید خوشمزه",
+          "خوش طعم و لذیذ",
+          "با کیفیت"
+        ],
+        "disadvantages": [
+          "ندارد"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_5",
+      "item_1",
+      "item_4",
+      "item_2",
+      "item_3"
+    ],
+    "user_preference_summary": "The user prefers high-quality, tasty products with a focus on freshness and traditional flavors, especially those suitable for children.",
+    "explanation": "Item 5 is ranked highest because it offers a new and delicious experience, which aligns with the user's appreciation for tasty and quality products. The positive comment highlights its flavor and quality, making it a strong match for the user's preferences. Item 1 follows as it has a pleasant texture and taste, but lacks specific advantages mentioned in the user's history. Item 4 is noted for its good taste and smell, which resonates with the user's focus on flavor. Items 2 and 3 are less compelling due to their vague comments and lack of specific advantages.",
+    "selected_recommendation": "item_5",
+    "error": null
+  },
+  {
+    "user_id": "7558139",
+    "category": "FA",
+    "ground_truth": "item_4",
+    "candidates": [
+      {
+        "item_id": "728874",
+        "title": "Product 728874 (FA)",
+        "comment": "من چند روزه خریدمش خیلی زیباست و واقعا ارزش خریدن داره البته تو تخفیف ویژه عالیه",
+        "advantages": [
+          "خیلی زیباست",
+          "قیمت مناسب نسبت به کیفیت"
+        ],
+        "disadvantages": [
+          "نبود نگهدارنده خودکار در جیب ها",
+          "دوخت کیف در برخی نقاط جالب نیست",
+          "بند کیف کمی کوتاهه"
+        ],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "666993",
+        "title": "Product 666993 (FA)",
+        "comment": "جهت پیاده روی و استفاده روزمره کفش بسیار مناسبیه. پیشنهادش می کنم. مرسی دیجی کالا",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "596608",
+        "title": "Product 596608 (FA)",
+        "comment": "با یکبار افتادن روی زمین به راحتی شکست. حبابش از یه شیشه ی بسیار نازک تهیه شده. بنظرم اگه از جنس پلاستیک شفاف ( مثل پلکسی گلاس و..) ساخته میشد بهتر بود. چون این گردنبند برای روی سینه استفاده میشه و اگر بخواد به راحتی بشکنه خطر آفرین میشه..",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "615318",
+        "title": "Product 615318 (FA)",
+        "comment": "خیلی شیک و زیباس . با یه کفش ورنی طرح سنگی ، ست خوبی میشه فقط کیفیت ساختش پایینه درواقع فوم هست در صورتی که قیمتش برابری میکنه با جنس چرم طبیعی نهایتا 20 تومن می ارزه با تشکر",
+        "advantages": [
+          "زیبایی",
+          "طراحی شکیل",
+          "براق بودن",
+          "سگک زیبا"
+        ],
+        "disadvantages": [
+          "کیفیت ساخت خیلی معمولی",
+          "قیمت بالا نسبت به کیفیت"
+        ],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "617735",
+        "title": "Product 617735 (FA)",
+        "comment": "شال لیز و جنس بدیه پلاستیک انگار",
+        "advantages": [
+          "چیزی نداره"
+        ],
+        "disadvantages": [
+          "جنسش خوب نیس"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_1",
+      "item_4",
+      "item_2",
+      "item_3",
+      "item_5"
+    ],
+    "user_preference_summary": "The user prefers products with good design and quality, but is sensitive to price. They value functionality and are dissatisfied with low-quality materials.",
+    "explanation": "Product 728874 is ranked highest because it is described as very beautiful and offers good value for money, which aligns with the user's preference for quality and design. Although it has some minor drawbacks, the overall positive feedback outweighs them. In contrast, Product 615318, while also aesthetically pleasing, suffers from poor quality, which the user has explicitly expressed concern about in their history.",
+    "selected_recommendation": "item_1",
+    "error": null
+  },
+  {
+    "user_id": "554488",
+    "category": "FF",
+    "ground_truth": "item_5",
+    "candidates": [
+      {
+        "item_id": "792166",
+        "title": "Product 792166 (FF)",
+        "comment": "تاریخ روز بود و خیلی خوب از طرف دیجی ارسال شد. ممنونم",
+        "advantages": [
+          "بسیار خوب ارسال شد",
+          "تازه و با قیمت مناسب"
+        ],
+        "disadvantages": [
+          "ندارد"
+        ],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "806210",
+        "title": "Product 806210 (FF)",
+        "comment": "اصلا طعم خوبی نداره. فقط ظاهر و بسته بندیش خوبه.",
+        "advantages": [],
+        "disadvantages": [
+          "طعم بسيار بد"
+        ],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "792384",
+        "title": "Product 792384 (FF)",
+        "comment": "کیفیت خیلی خوبی داشت و قیمتش هم خوب بود . دقیقا چیزی توی عکس ملاحظه میکنیده ضمنا دیجی هم خیلی خوب و بهداشتی و کاملا حرفه ای حمل و تحویل داد ممنونم .",
+        "advantages": [
+          "کیفیت عالی",
+          "بسته بندی خوب",
+          "قیمت خوب"
+        ],
+        "disadvantages": [
+          "ندارد"
+        ],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "792451",
+        "title": "Product 792451 (FF)",
+        "comment": "تازه و با کیفیت بود",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "792351",
+        "title": "Product 792351 (FF)",
+        "comment": "من این گوشت رو خریدم و بسیار راضی بودم. تازه و خوش طعم بود قیمتشم بد نیس شما هم بخرید پشیمون نمیشید",
+        "advantages": [
+          "تازه بودن",
+          "گوشت با کیفیت"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_3",
+      "item_5",
+      "item_4",
+      "item_1",
+      "item_2"
+    ],
+    "user_preference_summary": "The user prefers high-quality products with good value for money and freshness. They prioritize quality and positive delivery experiences.",
+    "explanation": "Item 3 is ranked highest due to its excellent quality, good price, and positive delivery experience, aligning perfectly with the user's preference for high-quality items. The user has consistently praised quality in their history, making this item the best fit.",
+    "selected_recommendation": "item_3",
+    "error": null
+  },
+  {
+    "user_id": "3989305",
+    "category": "HA",
+    "ground_truth": "item_2",
+    "candidates": [
+      {
+        "item_id": "32258",
+        "title": "Product 32258 (HA)",
+        "comment": "ظاهری زیبا و قدرت خوبی داره",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "121008",
+        "title": "Product 121008 (HA)",
+        "comment": "سلام.مایکروفر نرمال هست ،فقط یه مقدار کوچیک و فقط یه مرغ کوچیک توش جا میشه،زیباست و قدرتش متوسط هست.",
+        "advantages": [
+          "زیبایی قدرت"
+        ],
+        "disadvantages": [
+          "نبود راهنمای پخت کامل"
+        ],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "663363",
+        "title": "Product 663363 (HA)",
+        "comment": "اصلا راضی نیستم و در صورت امکان میخوام مرجوعش کنم.",
+        "advantages": [
+          "اسباب بازی خوبیه"
+        ],
+        "disadvantages": [
+          "همش نقاط ضعفه"
+        ],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "31604",
+        "title": "Product 31604 (HA)",
+        "comment": "در نگاه اول بسته بندی و کیفیت ساخت تو این رنج قیمت خیلی خوبه و از استیل مرغوب استفاده شده ،همچنین امکانات خوبی داره ،حالا باید تو استفاده بلند مدت ببینیم چطوره، به نظرم از برندهایه چینی که به دروغ اسم آلمان و ایتالیا رو یدک میکشن خیلی بهتره و با اینکه خودم جنس ایرانی کم میخرم ولی از پارس خزر که از قدیمی هاس باید حمایت بشه و کارشون خوبه",
+        "advantages": [
+          "کیفیت خوب، ساخت ایران"
+        ],
+        "disadvantages": [
+          "سیم کوتاه"
+        ],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "547529",
+        "title": "Product 547529 (HA)",
+        "comment": "من تازگی خریداری کردم کار راه اندازه المنت داخلشه من برام مهم بود نباشه اما هر کتری رو که سرچ میکردم تو مشخصات و نظراتشون قید نشده بود و متوجه نمیشدم بالاخره اینو انتخاب کردم پشیمان هم نیستم. یکم سروصدا داره و موقع خاموش شدن صدایی نمیده که بری سراغش و سیمش کوتاهه تقریبا امادر کل خوبه سفارشم به موقع رسید البته یکم دیر جواب تماس پیک رو دادم و دوسه باری زنگ زده بود که شاکی شد و با ناراحتی تحویل داد و گفت گوشی رو گذاشتن جواب بدید حق داشتند من اصلا متوجه تماس نشده بودم ولی خب...",
+        "advantages": [
+          "ظاهر خوب",
+          "قیمت به صرفه"
+        ],
+        "disadvantages": [
+          "صدای زیاد نسبتا وقت روشن کردن",
+          "وقتی که به نقطه جوش رسید و خاموش شد صدایی نداره که متوجه بشی"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_4",
+      "item_1",
+      "item_2",
+      "item_5",
+      "item_3"
+    ],
+    "user_preference_summary": "The user prefers high-quality products, especially those made in Iran, and values durability and functionality over aesthetics. They are sensitive to quality issues and have a negative view of low-quality items.",
+    "explanation": "Item 4 is ranked highest because it emphasizes good quality and is made in Iran, aligning with the user's preference for high-quality Iranian products. The user has expressed a desire for better quality in Iranian goods, and this item seems to meet that expectation. Additionally, it has positive comments regarding its construction and features, making it a strong candidate.",
+    "selected_recommendation": "item_4",
+    "error": null
+  },
+  {
+    "user_id": "3126601",
+    "category": "HC",
+    "ground_truth": "item_5",
+    "candidates": [
+      {
+        "item_id": "184482",
+        "title": "Product 184482 (HC)",
+        "comment": "حتما پیشنهاد میکنم",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "184495",
+        "title": "Product 184495 (HC)",
+        "comment": "کیفیتش خوبه و قیمتش نسبت به برندهای خارجی خیلی کمتره ، فقط بوش خیلی خوب نیست که البته زیاد مهم نیست چون کاملا ظرفها رو درخشان میکنه، کسانیکه دنبال قیمت مناسبن از این بخرن، خرید این محصول رو حتما پیشنهاد میکنم.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "607482",
+        "title": "Product 607482 (HC)",
+        "comment": "انگار گازوییل خریدم .چهل سال پیش د ر مراکز عمومی ازش استفاده میکردن",
+        "advantages": [
+          "مثله گازوییله"
+        ],
+        "disadvantages": [
+          "روغن سیاه چسبناک"
+        ],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "523523",
+        "title": "Product 523523 (HC)",
+        "comment": "خیلی بو داره تا نیم ساعت بعددستتون بو میده",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "212313",
+        "title": "Product 212313 (HC)",
+        "comment": "در یک کلام عالی",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_2",
+      "item_5",
+      "item_1",
+      "item_4",
+      "item_3"
+    ],
+    "user_preference_summary": "The user prefers products with good quality and value for money, showing sensitivity to poor materials and unpleasant odors.",
+    "explanation": "Item 2 is ranked highest because it offers good quality at a lower price compared to foreign brands, which aligns with the user's preference for value. Additionally, it has a minor drawback regarding the scent, but the user seems to prioritize overall effectiveness, as indicated by their history of dissatisfaction with poor quality and materials. Item 5 is also highly rated with a strong positive comment, suggesting excellent quality, making it a close second. Items 1, 4, and 3 have more significant drawbacks or negative comments, leading to their lower rankings.",
+    "selected_recommendation": "item_2",
+    "error": null
+  },
+  {
+    "user_id": "3360914",
+    "category": "HW",
+    "ground_truth": "item_5",
+    "candidates": [
+      {
+        "item_id": "703230",
+        "title": "Product 703230 (HW)",
+        "comment": "کالای اصل این برند دارای کیفیت مطلوبی است هنگام خرید این محصول به شدت دقت کنید که در بسته بندی قطعه ای شکسته و یا برند تقلبی نباشد جون برای من هر دو این مورد اتفاق افتاد .",
+        "advantages": [
+          "طراحی زیبا",
+          "کیفیت مطلوب"
+        ],
+        "disadvantages": [
+          "احتمال ارسال کالای تقلبی",
+          "احتمال ارسال کالای شکسته یا زده دار"
+        ],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "451437",
+        "title": "Product 451437 (HW)",
+        "comment": "من باهاش گوجه ، خیار ، سیب زمینی رو پوست کندم عالی کار میکنه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "387799",
+        "title": "Product 387799 (HW)",
+        "comment": "برای هدیه دادن خریدم بنظر م خوب بود .",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "107939",
+        "title": "Product 107939 (HW)",
+        "comment": "این کالا را دو سال پیش گرفتم و چند ماهی استفاده کردم ولی در اثر فشار زیاد شکست و فی قابل استفاده شد.",
+        "advantages": [
+          "کیفیت مناسب",
+          "استیل بودن بدنه",
+          "دسته پلاستیکی"
+        ],
+        "disadvantages": [
+          "خیلی کیفیت عالی ندارد"
+        ],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "533876",
+        "title": "Product 533876 (HW)",
+        "comment": "سلام.من اینو به همراه پایه رول کوچک از دیجی کالا فروشنده آذین صنعت خریدم و بسیار راضی هستم. به دلایل زیبایی،کارآمد بودن،ضد آب بودن،دارای دو جفت جا برای پیچ های بزرگ و کوچک برای نصب،شفاف بودن یعنی میشه داخلشو دید،کیفیت عالی و قیمت بسیار به صرفه. یکی از دلایل مهمی که من این رو اونم از دیجی کالا پیشنهاد میدم پشتیبانی بسیار قوی و مسئولانه است به طوری که به صورت اتفاقی احتمالا در حمل و نقل آسیب دیده بود و دبجی کالا مرجوعی رو پذیرفت و مبلغ رو عودت داد و دفعه بعد که خریدم کاملا سالم بود.یعنی کمتر جایی رو در اطرافتون پیدا می کنید که این جور پشتیبانی رو ارائه بده. در کل کاملا خریدشو توصیه می کنم.",
+        "advantages": [
+          "زیبا و کارآمد و کیفیت بالا",
+          "ضد آب و شفاف",
+          "جاهای مناسب برای نصب به دیوار",
+          "قیمت بسیار به صرفه",
+          "پشتیبانی قوی"
+        ],
+        "disadvantages": [
+          "ندارد"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_5",
+      "item_1",
+      "item_4",
+      "item_2",
+      "item_3"
+    ],
+    "user_preference_summary": "The user prefers high-quality products with good design and functionality, especially those that are durable and offer value for money. They are sensitive to authenticity and brand reputation.",
+    "explanation": "Item 5 is ranked highest due to its excellent quality, aesthetic appeal, waterproof feature, and strong customer support, which aligns perfectly with the user's preference for high-quality and reliable products. The positive feedback regarding its functionality and price further solidifies its top position. Item 1 follows, as it offers good design and quality but has concerns about counterfeit products. Item 4 is next, as it has decent quality but lacks the strong positive attributes of the top items. Items 2 and 3 are less favorable due to their lack of detailed advantages and overall lower user satisfaction.",
+    "selected_recommendation": "item_5",
+    "error": null
+  },
+  {
+    "user_id": "5868525",
+    "category": "IT",
+    "ground_truth": "item_4",
+    "candidates": [
+      {
+        "item_id": "259000",
+        "title": "Product 259000 (IT)",
+        "comment": "من پارسال اینو خریدم و تا الان هم خداروشکر کاملا راضیم",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "684685",
+        "title": "Product 684685 (IT)",
+        "comment": "من راضی هستم",
+        "advantages": [
+          "کابل بلند",
+          "اداپتور"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "308632",
+        "title": "Product 308632 (IT)",
+        "comment": "بد نیست",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "338739",
+        "title": "Product 338739 (IT)",
+        "comment": "خیلی راضی هستم",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "62936",
+        "title": "Product 62936 (IT)",
+        "comment": "سلام ظاهر و باطلش همینه ولی برای خرید حتما به رنگش دقت کن من عجله کردم الان پشیمونم چون صورتیه...",
+        "advantages": [
+          "زیبایی"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_2",
+      "item_4",
+      "item_1",
+      "item_5",
+      "item_3"
+    ],
+    "user_preference_summary": "The user values aesthetic appeal and functionality, with a sensitivity to quality and potential regrets about color choices.",
+    "explanation": "Item 2 is ranked highest due to its advantages of having a long cable and an adapter, which suggests practicality and functionality. The user has shown appreciation for beauty in their previous comments, making the practical features of item 2 particularly appealing. Item 4 follows closely as the user expressed high satisfaction, indicating a strong positive experience. Item 1 is also well-regarded but lacks specific advantages, while item 5's comment about color regret suggests a potential mismatch with user preferences. Item 3 is the least favored as it received a neutral comment without any advantages.",
+    "selected_recommendation": "item_2",
+    "error": null
+  },
+  {
+    "user_id": "5519709",
+    "category": "MA",
+    "ground_truth": "item_2",
+    "candidates": [
+      {
+        "item_id": "648468",
+        "title": "Product 648468 (MA)",
+        "comment": "قابل استفاده برای تمام سنین قابلیت جمع شوندگی دارد",
+        "advantages": [
+          "قابلیت تنظیم شیب و ارتفاع را دارد"
+        ],
+        "disadvantages": [
+          "پایه ها خیلی قوی نیستند",
+          "چرخ ندارد"
+        ],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "111709",
+        "title": "Product 111709 (MA)",
+        "comment": "از خریدم رضایت دارم.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "350258",
+        "title": "Product 350258 (MA)",
+        "comment": "خیلی زیبا و خوش رنگ و لعابه.قیمتش هم عالی عه و از خود نمایندگی ارزونتر میدن. طرح واقعیش رو از نزدیک میبینی خیلی قشنگتر از اونی عه که تو عکس افتاده",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "274817",
+        "title": "Product 274817 (MA)",
+        "comment": "خیلی خوشگله تمیز ساخته شده و محکم هستش نصبت به قیمتش می ارزه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "735904",
+        "title": "Product 735904 (MA)",
+        "comment": "به نظر من واقعا ارزش خرید داره، هم کیفیت و هم طرح روی جلد دفترها عالین",
+        "advantages": [
+          "جنس جلدش عالیه و جذابیت زیادی برای بچه داره"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_5",
+      "item_4",
+      "item_3",
+      "item_2",
+      "item_1"
+    ],
+    "user_preference_summary": "The user prefers high-quality products that are durable and visually appealing. They have shown dissatisfaction with items that fail quickly or have structural issues.",
+    "explanation": "Item 5 is ranked highest due to its emphasis on quality and appealing design, which aligns with the user's preference for durable and attractive products. The positive feedback about its material and attractiveness for children suggests it meets the user's quality sensitivity. Item 4 follows closely for its good construction and value for money, while Item 3 is noted for its aesthetic appeal. Item 2, despite being satisfactory, lacks specific advantages, and Item 1 is rated lowest due to concerns about structural integrity.",
+    "selected_recommendation": "item_5",
+    "error": null
+  },
+  {
+    "user_id": "1319288",
+    "category": "MO",
+    "ground_truth": "item_3",
+    "candidates": [
+      {
+        "item_id": "558310",
+        "title": "Product 558310 (MO)",
+        "comment": "کیفیت تصویر خوب",
+        "advantages": [
+          "خیلی سبک و خوش دست"
+        ],
+        "disadvantages": [
+          "دوربین و صدای هندسفری ضعیف"
+        ],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "155755",
+        "title": "Product 155755 (MO)",
+        "comment": "صددرصد ارزش خرید داره ولی.... دوستان به سری انتقاداتی که میکنن مثل زنگ نخوردن گوشی و قطع اتصال اینترنت و داغ کردن و اینا همشون درسته ولی... اگر از سیمکارت همراه اول استفاده بکنید و رابط کاربری رو به ورژن ۹ آپدیت کنید تمامی موارد فوق حل میشه و شما میتوانید از استفاده ازای گوشی نهایت لذت رو ببرید",
+        "advantages": [
+          "فراوان"
+        ],
+        "disadvantages": [
+          "عدم کارکرد صحیح با سیمکارت ایرانسل"
+        ],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "547213",
+        "title": "Product 547213 (MO)",
+        "comment": "من این محصول رو قبل گرانی ها خریدم در اون تایم تنها دیجی با قیمت مناسب این محصول رو ارائه میداد امیدوارم باز هم محصولات دیجی کامل بشه ممنون دیجی",
+        "advantages": [
+          "زيبايي",
+          "دوربين عالي",
+          "كارايي"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "36893",
+        "title": "Product 36893 (MO)",
+        "comment": "یکی از خریدهای خوبم از دیجی کالا بود ممنون اگه دیجی نبود هیچ وقت این جور خریدها رو تو ایران تجربه نمیکردیم",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "293771",
+        "title": "Product 293771 (MO)",
+        "comment": "گوشیه خوبیه تو این ۶ ماه مشکلی نداشته و راضیم",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_3",
+      "item_1",
+      "item_2",
+      "item_4",
+      "item_5"
+    ],
+    "user_preference_summary": "The user prefers products that are visually appealing and functional, with a strong emphasis on quality and value for money. They appreciate products that enhance their experience and have a good reputation for performance.",
+    "explanation": "Product 547213 (item_3) is ranked highest due to its excellent features such as high-quality camera and overall performance, which aligns with the user's preference for visually appealing and functional products. The absence of disadvantages further strengthens its position as the top recommendation.",
+    "selected_recommendation": "item_3",
+    "error": null
+  },
+  {
+    "user_id": "2898790",
+    "category": "PA",
+    "ground_truth": "item_1",
+    "candidates": [
+      {
+        "item_id": "125263",
+        "title": "Product 125263 (PA)",
+        "comment": "سلام دوستان این مدل برای کسانی که ته ریش میزارن توصیه میشه. در زمان خرید، با توجه به قیمت، ارزش خرید بالایی داشت. به صورت مرطوب تیغه ها کارایی خوبی ندارن، بنابراین بهتره قبل از اتمام کار، بهشون اب نخوره. شانه جداشونده شاید میشد بهتر طراحی بشه، چون به نظر میرسه اگر بی احتیاطی کنید و بشکنه با مشکل مواجه میشید. من حتی با این مدل یک بار موهام هم زدم و خیلی هم خوب شد در مجموع من از خریدم راضی هستم.",
+        "advantages": [
+          "مناسب براي ته ريش",
+          "طرواحي ارگونوميك و خوش دست",
+          "شارژدهي خوب",
+          "تيغه هاي خود تيزشونده",
+          "قابليت شستشوي تيغه"
+        ],
+        "disadvantages": [
+          "نبود قابليت اصلاح صفر",
+          "طراحي قابل بحث قسمت جداشونده"
+        ],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "18174",
+        "title": "Product 18174 (PA)",
+        "comment": "دو ماهه که این اتو رو خریداری کردم سرعت صاف کردن فوق العاده است ، انگار که سالن رفته باشی ، به مو آسیب نمیزنه اما یه مساله اینکه خاصیت کراتیه من توش ندیدم و تغییری تو کیفیت موهام نسبت به قبل حس نمیکنم این اتو خاصیت درمانی نداره برخلاف تبلیغی که کرده ولی برای صاف کردن مو الحق بهتر از این اتو ندیدم",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "381834",
+        "title": "Product 381834 (PA)",
+        "comment": "توی جزئیات محصول گفته شده که باد خنک داره و این موضوع درست نیست و فقط باد گرم داره.",
+        "advantages": [],
+        "disadvantages": [
+          "سیم نسبتا کوتاه",
+          "باد خنک ندارد"
+        ],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "272105",
+        "title": "Product 272105 (PA)",
+        "comment": "به محض اینکه ماشین رو دستتون میگیرید از خریدتون به شدت پشیمون میشید.بدترین خرید عمرم بود.هرگز هرگز این ماشین رو نخرید",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "614215",
+        "title": "Product 614215 (PA)",
+        "comment": "اصلا این ماشین ریش تراش خوب نیست و خیلی زیر گلو را بسیار زخم میکنه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_1",
+      "item_2",
+      "item_3",
+      "item_4",
+      "item_5"
+    ],
+    "user_preference_summary": "The user values high-quality materials and precise construction, as well as functionality and safety features. They are sensitive to poor quality and unrealistic marketing claims.",
+    "explanation": "Product 125263 is ranked highest because it offers a good balance of quality and functionality, with ergonomic design and self-sharpening blades, which aligns with the user's preference for high-quality construction. The user has expressed satisfaction with their previous purchases that emphasize quality, making this product a strong recommendation.",
+    "selected_recommendation": "item_1",
+    "error": null
+  },
+  {
+    "user_id": "5255199",
+    "category": "PC",
+    "ground_truth": "item_2",
+    "candidates": [
+      {
+        "item_id": "308021",
+        "title": "Product 308021 (PC)",
+        "comment": "بیشتر کارایی خنک کنندگی و رفع خستگی دارد و پس از فعالیت ورزشی موثر هست",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "799522",
+        "title": "Product 799522 (PC)",
+        "comment": "به نظر من واقعا خیلی خوبه مثل خیلی دیگه از براش ها بدنش خط و خش نداره، بسته بندیش هم‌ عالی و خیلی یکدست کرم و پخش میکنه و پر مو‌ هم هست",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "490146",
+        "title": "Product 490146 (PC)",
+        "comment": "عالیه/باعث ماندگاری آرایش می شود.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "301764",
+        "title": "Product 301764 (PC)",
+        "comment": "رایحه و قیمت بسیار عالی می باشد.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "311517",
+        "title": "Product 311517 (PC)",
+        "comment": "کلا مام های آدیداس خوب هستن، بوی خوبی دارند و رد لک روی لباس نمی گذارند.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_3",
+      "item_5",
+      "item_2",
+      "item_4",
+      "item_1"
+    ],
+    "user_preference_summary": "The user prefers high-quality products that are effective and aesthetically pleasing, showing a strong satisfaction with their purchases.",
+    "explanation": "Item 3 is ranked highest because it is praised for its effectiveness in prolonging makeup wear, aligning with the user's appreciation for quality and performance. Item 5 follows closely as it highlights good scent and no stains, which also resonates with the user's positive feedback on aesthetics. Item 2 is noted for its excellent packaging and quality, while Item 4 offers great scent and price, making it appealing but slightly less prioritized. Item 1, while functional, does not emphasize aesthetic or quality aspects as strongly as the others.",
+    "selected_recommendation": "item_3",
+    "error": null
+  },
+  {
+    "user_id": "2585321",
+    "category": "TC",
+    "ground_truth": "item_5",
+    "candidates": [
+      {
+        "item_id": "390877",
+        "title": "Product 390877 (TC)",
+        "comment": "من تقریبا از همه ی انواع محصولات شرکت دلتا از طریق دیجی کالا بهره مند شدم و تا الان حقیقتا جز رضایت چیز دیگه ای برای من به ارمغان نیاوردن تو این بازار و با این قیمتهای نجومی و بعضا غیرقابل هضم، این درجه از کیفیت با این میزان قیمت واقعا رقابتی هست. خسته نباشید و دست مریزاد به بر وبچه های شرکت دلتا و البته دیجی کالا.",
+        "advantages": [
+          "کیفیت و دوام بالا در محصولات دلتا و نوردهی و راندمان قابل قبول در مقایسه با نمونه های خارجی"
+        ],
+        "disadvantages": [
+          "ندارد"
+        ],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "294683",
+        "title": "Product 294683 (TC)",
+        "comment": "توی خونه استفاده میکنیم راحته ولی کاش کیفیت ساختش بهتر بود",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "425691",
+        "title": "Product 425691 (TC)",
+        "comment": "بوی خیلی تندی داره.قابل تحمل نیست. نباید کامل از بسته خارج کنید روش نوشته. من گذاشتم تو سرویس بهداشتی",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "343763",
+        "title": "Product 343763 (TC)",
+        "comment": "عالیهه حتما بخرید پشیمون نمیشید.",
+        "advantages": [
+          "خوش دست",
+          "ضد عرق",
+          "با کیفیت"
+        ],
+        "disadvantages": [
+          "هیچی"
+        ],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "93892",
+        "title": "Product 93892 (TC)",
+        "comment": "بسیار عالیه فقط الان خیلی گرون شده برای سه‌‌شاخه‌های کوچک و دوشاخه‌های کوچک طراحی شده برای دستگاههایی مثل شارژ موبایل، تبلت، لپ تاپ کارایی داره",
+        "advantages": [
+          "عالی"
+        ],
+        "disadvantages": [
+          "گران"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_1",
+      "item_4",
+      "item_5",
+      "item_2",
+      "item_3"
+    ],
+    "user_preference_summary": "The user values quality, durability, and functionality in products, with a preference for items that are well-designed and practical. They have shown sensitivity to features like pockets and protective elements.",
+    "explanation": "Product 390877 is ranked highest due to its high quality and durability, which aligns with the user's preference for well-made items. The positive feedback about the brand's competitive pricing further enhances its appeal. Product 343763 follows closely as it is described as high-quality and user-friendly, which matches the user's desire for functional and practical products. Product 93892 is also well-rated but is noted to be expensive, which may be a concern for the user. Products 294683 and 425691 lack significant advantages and have less favorable comments, placing them lower in the ranking.",
+    "selected_recommendation": "item_1",
+    "error": null
+  },
+  {
+    "user_id": "6587758",
+    "category": "TS",
+    "ground_truth": "item_2",
+    "candidates": [
+      {
+        "item_id": "606096",
+        "title": "Product 606096 (TS)",
+        "comment": "گوشگیرش ک خب معمولیه دماغگیرشم کیپ بینی میشه و یه قطره اب وارد بینی نمیشه در کل نسبت به قیمتش حرف نداره",
+        "advantages": [
+          "کیفیت و قیمت پایین"
+        ],
+        "disadvantages": [
+          "پیدا نکردم"
+        ],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "706170",
+        "title": "Product 706170 (TS)",
+        "comment": "عالی است بخرید",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "113013",
+        "title": "Product 113013 (TS)",
+        "comment": "من خیلی از خرید این کالا راضی هستم قبل از تولد فرزندم خریدم و با خوندن بعضی از نظرات پشیمون شدم ولی الان جز کاربردیترین خریدای دخترم هست بسیار بهش علاقه داره و استفاده ازش راحت و ایمنه. بندهای اون متناسب با هرفرد باید دوباره تنظیم بشه. هم تو خونه هم بیرون استفاده میکنم و انقدر راحت هست که دخترم بارها توش خوابش برده .تنها ایرادش اینه که لبه ی آغوشی یک مقدار بلند هست و برای اینکه با دهان نوزاد در ارتباط نباشه مجبورم به بیرون تا کنم.",
+        "advantages": [
+          "بسیار کاربردی و راحت"
+        ],
+        "disadvantages": [
+          "لبه ی آغوشی یک مقدار بلند هست و برای اینکه با دهان نوزاد در ارتباط نباشه مجبورم تا کنم."
+        ],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "204731",
+        "title": "Product 204731 (TS)",
+        "comment": "تو پیشنهاد شگفت انگیز می ارزه بخرین.خیلی باحاله",
+        "advantages": [
+          "خوبه"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "815684",
+        "title": "Product 815684 (TS)",
+        "comment": "بی کیفیت و بسیار ابتدایی",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_3",
+      "item_2",
+      "item_4",
+      "item_1",
+      "item_5"
+    ],
+    "user_preference_summary": "The user prefers high-quality, practical, and safe products, particularly those that are easy to use. They are sensitive to quality and functionality, as indicated by their positive feedback on quality and practicality in previous interactions.",
+    "explanation": "The top recommendation is Product 113013 because it is described as very practical and comfortable, which aligns with the user's preference for high-quality and functional items. The user has shown a strong inclination towards products that are easy to use and safe, especially for children, making this product the best fit based on their history.",
+    "selected_recommendation": "item_3",
+    "error": null
+  },
+  {
+    "user_id": "4539865",
+    "category": "AC",
+    "ground_truth": "item_3",
+    "candidates": [
+      {
+        "item_id": "270764",
+        "title": "Product 270764 (AC)",
+        "comment": "رایگان هم گرون جنس: پلاستیکی بسیار خشک و نازک نه بالای گوشی رو میگیره نه پایین گوشی و نه هیچکدوم از دکمه ها من که خریدم کاملا پشیمونم و اصلا قابل استفاده نیست گذاشتم کنار",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "342096",
+        "title": "Product 342096 (AC)",
+        "comment": "بسیار کاور زیبا و خوش دستی هست،از نظر مقاوم بودن در مقابل ضربه هم عالی، ضخامت گوشیو یه کمی زیاد کرده ولی اصلا به چشم نمیاد،تنها ایرادش متاسفانه اینه که حق انتخاب رنگبندیشو نداری!!!! قبلا هم از کاورهای المنت کیس سفارش داده بودم ، تا نرسید دستم اصلا نفهمیدم چه رنگیه! این مدل هم نمی دونستم چه رنگیه! وقتی رسید دستم دیدم سفیدشه! ولی قسمت سفید رنگش حالت نیمه شفاف داره،خوشکله من که راضیم",
+        "advantages": [
+          "مقاوم در برابر ضربه",
+          "خوش دست",
+          "ظاهر زیبا"
+        ],
+        "disadvantages": [
+          "عدم حق انتخاب رنگبندی کاور!"
+        ],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "762311",
+        "title": "Product 762311 (AC)",
+        "comment": "بسیار با کیفیت هست اما دیجی گزونش کرده ایندفعه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "383702",
+        "title": "Product 383702 (AC)",
+        "comment": "همه چیزش خوبه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "348755",
+        "title": "Product 348755 (AC)",
+        "comment": "نسیت به قیمتش عااالیه فقط اگه باتریش بیشتر میموند عالی میشد",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_3",
+      "item_4",
+      "item_5",
+      "item_2",
+      "item_1"
+    ],
+    "user_preference_summary": "The user prefers high-quality products, values durability and functionality, and has a sensitivity to poor quality. They appreciate good battery life and ergonomic design.",
+    "explanation": "Item 3 is ranked highest as it is described as 'very high quality', which aligns with the user's preference for quality. Item 4 is also positively noted for being good overall, suggesting it meets the user's standards. Item 5 is praised for its value, though it has a minor battery issue, which is acceptable. Item 2, while having a beautiful design and good durability, lacks color choice, which might be a drawback for the user. Item 1 is rated the lowest due to the user's negative experience with a similar product, indicating a strong aversion to poor quality.",
+    "selected_recommendation": "item_3",
+    "error": null
+  },
+  {
+    "user_id": "4649030",
+    "category": "AV",
+    "ground_truth": "item_5",
+    "candidates": [
+      {
+        "item_id": "477699",
+        "title": "Product 477699 (AV)",
+        "comment": "باند فوق العاده ای حتما تهیه کنید که ضرر نمی کنید.",
+        "advantages": [],
+        "disadvantages": [
+          "هیچ"
+        ],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "584630",
+        "title": "Product 584630 (AV)",
+        "comment": "الان حدود یک ماهه که روی ماشین نصب کردم، خیلی ازش خوشم اومده، کیفیت تصویرش هم تو مونیتور خودش و هم روی مانیتور کامپیوتر ، بسیار عالی و با کیفیت هست. تو این دوره زمونه که کمتر کسی خطای خودش رو قبول میکنه، به نظر من واسه ثبت لحظات جلوی خودرو و استناد به اون، خیلی ضروری هست که یکیش رو داشته باشیم. البته واسه خاطرات سفر و مسیرهای آفرودی هم جالبه.",
+        "advantages": [
+          "کارکرد راحت",
+          "کیفیت بالا",
+          "لنز واید واقعی"
+        ],
+        "disadvantages": [
+          "باطری داخلی کم جون"
+        ],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "633716",
+        "title": "Product 633716 (AV)",
+        "comment": "حتی به عنوان میکروسکوپ دانش آموزی هم ارزش نداره و بیشتر یک اسباب بازی هست .",
+        "advantages": [
+          "راهنمای فارسی"
+        ],
+        "disadvantages": [
+          "کیفیت بسیار پایین",
+          "قیمت بالا",
+          "لوازم همراه بی کیفیت"
+        ],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "4193",
+        "title": "Product 4193 (AV)",
+        "comment": "کیفیت عکس و فیلم برداری واقعا ضعیفه مخصوصا فیلم برداری. خیلی کیفیت پایینی داره و بیشتر بدرد مجالش خانوادگی میخوره تا استفاده های مهم تر.عکسبرداریش هم بخاطر سنسور کوچیکی ک داره از کیفیت خیلی خوبی برخوردار نیست و شارپنس خاصی نداره . اما امکانات جالبی داره . در کل تو این بازه ی قیمتی انتخاب های خیلی بهتری هست. من این دوربینو 1 ماه پیش خریدم و کاملا پشیمون شدم.خلاصه برای عکاسی خانوادگی بد نیست..بیشتر یه جورایی مثل دوربین سفره.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "860362",
+        "title": "Product 860362 (AV)",
+        "comment": "من برای گیم گرفتم. فوق العادست نسبت به قیمت. هیچ رقیبی نداره",
+        "advantages": [
+          "شفافیت تصویر",
+          "برند آشنا",
+          "قیمت مناسب",
+          "خروجی های عالی"
+        ],
+        "disadvantages": [
+          "برای صدای بهتر باید از سینماهای خانگی کمک بگیریم"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_2",
+      "item_5",
+      "item_1",
+      "item_4",
+      "item_3"
+    ],
+    "user_preference_summary": "The user prefers high-quality products with good design and functionality. They are sensitive to quality and performance, particularly in AV products, and have shown a preference for lightweight and aesthetically pleasing items.",
+    "explanation": "Product 584630 (item_2) is ranked highest due to its excellent image quality and ease of use, which aligns with the user's preference for high-quality and functional AV products. The user has indicated a strong appreciation for quality in their past interactions, making this product a suitable match. Additionally, the positive feedback about its wide lens and overall performance further supports its top ranking.",
+    "selected_recommendation": "item_2",
+    "error": null
+  },
+  {
+    "user_id": "2677646",
+    "category": "BC",
+    "ground_truth": "item_4",
+    "candidates": [
+      {
+        "item_id": "153443",
+        "title": "Product 153443 (BC)",
+        "comment": "عالی. به نسبت قیمت",
+        "advantages": [
+          "در کل خوبه سایزش هم بزرگه."
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "550089",
+        "title": "Product 550089 (BC)",
+        "comment": "به پوست بچه ساخت و نسبت به قیمتی که داره خیلی خوبه. ممنونم",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "103746",
+        "title": "Product 103746 (BC)",
+        "comment": "با توجه به پیشنهادهایی که وجود داشت این کرم رو معرفی کردن که از دیجی کالا خریدم ولی نه تنها سوختگی ناشی از پوشک دخترم بهبود نیافت حتی بدتر شد و پیشرفت هم داشت. من پیشنهاد میکنم به هیچ وجه نخرین.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "98839",
+        "title": "Product 98839 (BC)",
+        "comment": "واقعا تو شامپو بچه و بدن کودک ، فیروز حرف اول رو میزنه حتی از برندهای خارجی که یکی دو مدل قبلا استفاده کرده بودیم واقعا بهتر هست ، طوری که من خودم هم خیلی وقتها از شامپو بچه برای صورت استفاده میکنم و واقعا مناسب هست",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "539201",
+        "title": "Product 539201 (BC)",
+        "comment": "متاسفانه تنها مشکلی که وجود داشت وقتی به دستم رسید مقداری از شامپو ریخته بود تو کارتونش ، چند ساله که از این شامپو استفاده میکنیم عالیه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_4",
+      "item_2",
+      "item_1",
+      "item_5",
+      "item_3"
+    ],
+    "user_preference_summary": "The user prefers high-quality, reliable products, particularly those that are locally made. They value positive initial experiences and effectiveness, especially for children's products.",
+    "explanation": "Product 98839 (item_4) is highly recommended for its effectiveness in children's care, outperforming even foreign brands. This aligns with the user's preference for quality and reliability, especially in products for children. The positive feedback about its use for both children and adults further supports its ranking. Other products, while decent, do not match the strong endorsement seen for item_4.",
+    "selected_recommendation": "item_4",
+    "error": null
+  },
+  {
+    "user_id": "3988888",
+    "category": "DF",
+    "ground_truth": "item_3",
+    "candidates": [
+      {
+        "item_id": "590986",
+        "title": "Product 590986 (DF)",
+        "comment": "عالیه خیلی ترد و خوشمزست",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "468766",
+        "title": "Product 468766 (DF)",
+        "comment": "من خریدم و راضی بودم . رنگ شوید سبز بود و خیلی عالی. چون دیدم خوبه برای مادرم و مادرشوهرمم خریدم",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "547217",
+        "title": "Product 547217 (DF)",
+        "comment": "خوشمزه است.اندازه اش کمه ولی خیلی خوشمزه است",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "463923",
+        "title": "Product 463923 (DF)",
+        "comment": "بهترین طعم",
+        "advantages": [
+          "همه چی"
+        ],
+        "disadvantages": [
+          "هیچ"
+        ],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "477572",
+        "title": "Product 477572 (DF)",
+        "comment": "خوب و خوش طعم.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_4",
+      "item_2",
+      "item_1",
+      "item_5",
+      "item_3"
+    ],
+    "user_preference_summary": "The user prefers high-quality products with good taste and lasting performance. They value aesthetics and have a sensitivity to poor quality.",
+    "explanation": "Item 4 is ranked highest due to its strong endorsement of having the 'best taste' with no reported disadvantages, aligning well with the user's preference for quality and flavor. Item 2 follows as it received positive feedback for its quality and satisfaction, indicating reliability. Item 1 is also well-received but lacks specific advantages. Item 5 is decent but does not stand out as much, while Item 3, despite being tasty, is noted for its smaller size, which may not meet the user's expectations based on their history.",
+    "selected_recommendation": "item_4",
+    "error": null
+  },
+  {
+    "user_id": "562033",
+    "category": "FA",
+    "ground_truth": "item_1",
+    "candidates": [
+      {
+        "item_id": "714534",
+        "title": "Product 714534 (FA)",
+        "comment": "در یک کلام بی نظیر",
+        "advantages": [
+          "کیفیت ساخت",
+          "طراحی زیبا"
+        ],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "96786",
+        "title": "Product 96786 (FA)",
+        "comment": "برخلاف زیبایی و مزیت ها، مدام قسمت های مختلف از اتصال ها جدا میشند و ممکنه به راحتی بدون اون رو گم کنید یا قبل از بیرون رفتن ببینید که زنجیرش جدا شده و نمیتونید ازش استفاده کنید .",
+        "advantages": [
+          "زیبایی",
+          "سبکی"
+        ],
+        "disadvantages": [
+          "جدا شدن زنجیر ها"
+        ],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "604356",
+        "title": "Product 604356 (FA)",
+        "comment": "بعد از دو هفته استفاده چسب هاش در رفت",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "152277",
+        "title": "Product 152277 (FA)",
+        "comment": "خیلی راضیم، دوسال پیش این کفشو از دیجی سفارش دادم و هنوزم مثه روز اولشه",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "827037",
+        "title": "Product 827037 (FA)",
+        "comment": "علیرغم اینکه تو قسمت مشخصات نوشته شده مقاوم در برابر آب در حد شستن دست، با اولین شستن دست شیشه بخار کرد تازه من خود ساعت رو اصلا نگرفتم زیر آب",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_1",
+      "item_4",
+      "item_2",
+      "item_3",
+      "item_5"
+    ],
+    "user_preference_summary": "The user prefers high-quality, beautifully designed products, even if they come at a higher price. They value durability and unique design features.",
+    "explanation": "Product 714534 is the top recommendation due to its combination of high build quality and beautiful design, which aligns perfectly with the user's expressed preferences for aesthetics and quality. The absence of reported issues further strengthens its appeal, making it a reliable choice.",
+    "selected_recommendation": "item_1",
+    "error": null
+  },
+  {
+    "user_id": "5030448",
+    "category": "FF",
+    "ground_truth": "item_4",
+    "candidates": [
+      {
+        "item_id": "784663",
+        "title": "Product 784663 (FF)",
+        "comment": "طعم عالی، در کنار عدم استفاده از مواد نگهدارنده، یه انتخاب مناسب واسه افرادی که طعم ماستهای کارخونه ای رو دوست ندارن",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "784661",
+        "title": "Product 784661 (FF)",
+        "comment": "به قدری خوشمزه اس که کل یک کیلو و نیمش رو همون روز خوردم ، عالی",
+        "advantages": [
+          "چربی اندازه",
+          "طعم",
+          "کیفیت"
+        ],
+        "disadvantages": [
+          "هیچی"
+        ],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "769536",
+        "title": "Product 769536 (FF)",
+        "comment": "خیلی طعم دود ملایمی داره و بر خلاف بقیه کنسرو های کیلکا اصلا ماهی ها له شده و نصفه نیمه نیستن . برای تزیین روی غذا هم بسیار مناسبه .",
+        "advantages": [
+          "طعم دود ملایم",
+          "بسته بندی مناسب"
+        ],
+        "disadvantages": [
+          "ندارد"
+        ],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "857185",
+        "title": "Product 857185 (FF)",
+        "comment": "خیلی خوشمزه و تازه است",
+        "advantages": [
+          "خوشمزه و تازه است"
+        ],
+        "disadvantages": [
+          "ندارد"
+        ],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "806210",
+        "title": "Product 806210 (FF)",
+        "comment": "اصلا طعم خوبی نداره. فقط ظاهر و بسته بندیش خوبه.",
+        "advantages": [],
+        "disadvantages": [
+          "طعم بسيار بد"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_2",
+      "item_4",
+      "item_3",
+      "item_1",
+      "item_5"
+    ],
+    "user_preference_summary": "The user prefers high-quality, tasty products with good flavor and is sensitive to taste and quality, as indicated by their positive feedback on flavorful items and a negative experience with poor taste.",
+    "explanation": "Item 2 is ranked highest due to its excellent taste and quality, which aligns perfectly with the user's preference for flavorful and high-quality products. The user has shown a strong inclination towards items that are not only tasty but also satisfying, as seen in their history. Item 4 follows closely, praised for its freshness and taste, making it a solid choice as well. Item 3 is also favorable due to its unique flavor and good packaging, while Item 1, despite being a decent option, lacks specific advantages that stand out. Finally, Item 5 is rated the lowest due to its poor taste, which directly contradicts the user's preferences.",
+    "selected_recommendation": "item_2",
+    "error": null
+  },
+  {
+    "user_id": "4777141",
+    "category": "HA",
+    "ground_truth": "item_3",
+    "candidates": [
+      {
+        "item_id": "133482",
+        "title": "Product 133482 (HA)",
+        "comment": "عالیه کیفیتش خوبه من راضی بودم.",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "553353",
+        "title": "Product 553353 (HA)",
+        "comment": "من یکماهه دارم. پنکه بدی نیست. به نظر میاد در دراز مدت کم کم فنش به صدا بیوفته. فنر پایش بسیار قویه و من به میز وصل کردم و زمانی که هوا خیلی گرم بشه برای فاصله نزدیک بدرد بخوره. میتونست پروانش کمی بزرگتر باشه تا پرتاب بادش بیشتر شه.",
+        "advantages": [
+          "دکمه چرخش",
+          "گیره نگهدارنده میز",
+          "امکان تنظیم و چرخش پایه به جهات دلخواه"
+        ],
+        "disadvantages": [
+          "افزایش سرعت گردش با افزایش سرعت",
+          "دور دوم تقریبا با دور اول یکیه"
+        ],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "144285",
+        "title": "Product 144285 (HA)",
+        "comment": "این آبمیوه گیری بنطرم عالیه. ما باهاش آب همدونه و انگور گرفتیم. خیلی خوبه. ظاهرش هم خیلی قشنگه. یچیز جدیده. منکه واقعا دوسش دارم و ازش راضی هستم.توصیه میکنم بخرید.",
+        "advantages": [
+          "دو دریچه ی جداگانه",
+          "ظاهر متفاوت و قشنگ"
+        ],
+        "disadvantages": [
+          "نداره"
+        ],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "211391",
+        "title": "Product 211391 (HA)",
+        "comment": "پیشنهاد نمی‌کنم",
+        "advantages": [
+          "ندارد"
+        ],
+        "disadvantages": [
+          "عدم جدا سازي براري شستشو"
+        ],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "140481",
+        "title": "Product 140481 (HA)",
+        "comment": "در اتاق یا حال منزل بشرطی که خیلی بزرگ نباشد بسیار کاربردی است مخصوصا وقتی که بخور سرد و پنکه و یونایزر، هر سه با هم روشن باشند",
+        "advantages": [
+          "مصرف کم، پنکه، بخور سرد، یونیزه کننده هوا، حشره کش برقی"
+        ],
+        "disadvantages": [
+          "ندارد البته برای فضاهایی با مساحت کف ماکزیمم سی متر مربع کارایی دارد"
+        ],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_3",
+      "item_1",
+      "item_5",
+      "item_2",
+      "item_4"
+    ],
+    "user_preference_summary": "The user prefers high-quality products with good design and functionality, showing a sensitivity to performance and aesthetics.",
+    "explanation": "Product 144285 (item_3) is ranked highest due to the user's positive feedback on its quality and design, as well as its functionality in making juice, which aligns with their preference for practical and visually appealing items. The user has consistently appreciated products that are both functional and aesthetically pleasing, making this item a strong match.",
+    "selected_recommendation": "item_3",
+    "error": null
+  },
+  {
+    "user_id": "1311204",
+    "category": "HC",
+    "ground_truth": "item_4",
+    "candidates": [
+      {
+        "item_id": "139832",
+        "title": "Product 139832 (HC)",
+        "comment": "قدرت تمیز کنندگی بالا بدون ایجاد حساسیت",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_1"
+      },
+      {
+        "item_id": "680885",
+        "title": "Product 680885 (HC)",
+        "comment": "این دستگاه رو دو ماه پیش برای دفع ساس داخل اتاق خواب نصب کردم.ولی کاملا بی اثر و بی نتیجه بود.همچنان ساس ها مانور میدن و نیش میزنن.پولمو ریختم دور",
+        "advantages": [
+          "ندارد"
+        ],
+        "disadvantages": [
+          "کاملا بی اثر"
+        ],
+        "candidate_id": "item_2"
+      },
+      {
+        "item_id": "219464",
+        "title": "Product 219464 (HC)",
+        "comment": "محصولات این برند در کنار هم کارشون رو خیلی خوب انجام میدن و در کنار محصولات مشابه خارجی هیچی کم نداشتن من واقعا راضی بودم",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_3"
+      },
+      {
+        "item_id": "362115",
+        "title": "Product 362115 (HC)",
+        "comment": "من قبلا یه نمونه داشتم که باطری بزرگ میخورد مصرفش هم خیلی بالا بود ، از این مدل راضیم .خارج از اینکه تنظیمات زمان داره میتونی جوری تنظیمش کنی که وقتی چراغ روشن شد اسپری کنه که مصرف خیلی میاد پایین و هر وقت میخوای اسپری به صورت دستی کار کنه میتونید چراغ رو روشن خاموش کنی . روی دستگاه هم یه کلید آبی هست که اگه فشار داده بشه اسپری میکنه. در کل از عملکردش راضیم",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_4"
+      },
+      {
+        "item_id": "540673",
+        "title": "Product 540673 (HC)",
+        "comment": "افتضاحه اصلا نخرید",
+        "advantages": [],
+        "disadvantages": [],
+        "candidate_id": "item_5"
+      }
+    ],
+    "ranking": [
+      "item_4",
+      "item_3",
+      "item_1",
+      "item_2",
+      "item_5"
+    ],
+    "user_preference_summary": "The user prefers products that are effective and reliable, showing a strong sensitivity to quality and performance. They value products that do not have negative health impacts and are wary of ineffective solutions.",
+    "explanation": "Product 362115 is ranked highest because the user appreciates its functionality and the ability to control its operation, which aligns with their preference for effective and reliable products. The positive feedback about its performance and the ability to manage consumption indicates it meets the user's quality expectations. In contrast, Product 680885 is rated poorly due to its ineffectiveness, which is a significant concern for the user.",
+    "selected_recommendation": "item_4",
+    "error": null
+  }
+]

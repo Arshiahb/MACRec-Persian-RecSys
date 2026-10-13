@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and generated artifacts (explicitly allow approved benchmark JSON)
+data/
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.sqlite
+*.db
+*.tmp
+!benchmarks/test_benchmark.json
+!benchmarks/agent_evaluation_results.json
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*credentials*
+*secret*
+*.pem
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
