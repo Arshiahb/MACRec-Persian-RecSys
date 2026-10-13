@@ -1,112 +1,92 @@
-# RecMind فارسی: توصیه‌گر عامل‌محور برای تجارت الکترونیک
+# پروژه پژوهشی سیستم توصیه‌گر عامل‌محور در تجارت الکترونیک
 
-**پروژه پایان‌نامه کارشناسی ارشد هوش مصنوعی** | Persian Agentic Recommendation from E-commerce Reviews
+پیاده‌سازی و ارزیابی سامانه‌ای هوشمند مبتنی بر مدل‌های زبانی بزرگ برای تحلیل نظرات و تعاملات کاربران دیجی‌کالا.
 
-[فارسی](#فارسی) · [English](#english)
+---
 
-## فارسی
+## 📌 معرفی و هدف پروژه
 
-### معرفی
+در سیستم‌های توصیه‌گر سنتی، رتبه‌بندی محصولات عمدتاً بر اساس ماتریس‌های عددی و امتیازهای خام انجام می‌شود. در این پروژه پژوهشی، معماری توصیه‌گر عامل‌محور با الهام از روش مقالهٔ رِک‌مایند پیاده‌سازی شده است تا:
 
-این مخزن نمونه‌ای پژوهشی از سیستم توصیه‌گر عامل‌محور مبتنی بر مدل زبانی بزرگ برای نظرات فارسی تجارت الکترونیک است. عامل از تاریخچه بازخورد کاربر ترجیحات ضمنی مانند حساسیت به دوام، کیفیت ساخت، قیمت یا سهولت استفاده را استنباط می‌کند؛ سپس پنج محصول کاندیدا را بر اساس شواهد موجود رتبه‌بندی و انتخاب خود را توضیح می‌دهد. طراحی از ایده‌های مقاله RecMind الهام گرفته است و بازتولید کامل مقاله نیست.
+۱. **علایق ضمنی کاربران را استخراج کند:** متن نظرات گذشته، نقاط قوت و ضعف و دلایل توصیه را تحلیل کند تا اولویت‌هایی مانند کیفیت ساخت، قیمت، کارایی یا دوام را بشناسد.
+۲. **گزینه‌های پیشنهادی را استدلالی رتبه‌بندی کند:** پنج محصول پیشنهادی را بر پایه شواهد متنی و هماهنگی با ویژگی‌های کاربر ارزیابی کند.
+۳. **نتیجه را تفسیرپذیر سازد:** خلاصه‌ای از تمایلات استنباط‌شده و دلیل انتخاب محصول رتبهٔ نخست را به زبان طبیعی ارائه دهد.
 
-### معماری سیستم
+---
 
-1. خواندن فایل محلی keifiat.xlsx و نگاشت ستون‌های شناسه کاربر و محصول، دسته‌بندی، توصیه، نظر، مزایا و معایب.
-2. پاک‌سازی متن و برچسب‌ها و ساخت تاریخچه تعامل و مجموعه کاندیداها.
-3. ارسال تاریخچه و اطلاعات محصولات به یک مدل سازگار با API نوع OpenAI برای استنباط ترجیحات و رتبه‌بندی.
-4. اعتبارسنجی خروجی مدل، نگهداری نتایج ارزیابی و محاسبه معیارهای HR@K، MRR و NDCG@5.
+## 📊 نتایج ارزیابی تجربی
 
-### داده‌ها
+این ارزیابی روی مجموعه‌ای شامل ۴۰ کاربر و با نمونه‌گیری متوازن از دسته‌بندی‌های محصول انجام شده است. نتایج با خط مبنای تصادفی، یعنی انتخاب تصادفی از میان پنج گزینه، مقایسه شده‌اند:
 
-داده خام Excel و CSV در مخزن Git نگهداری نمی‌شود. فایل keifiat.xlsx، که در پروژه به‌عنوان دارای ۱۰۰٬۰۰۰ رکورد معرفی شده، باید جداگانه از مخزن عمومی [farshadnp/DigiKalaDataSet](https://github.com/farshadnp/DigiKalaDataSet) دریافت و در data/keifiat.xlsx قرار گیرد. برای مسیر دیگر، متغیر DIGIKALA_DATA_PATH را تنظیم کنید.
+| معیار ارزیابی | خط مبنای تصادفی | عامل هوشمند | بهبود نسبی |
+| :--- | :---: | :---: | :---: |
+| **HR@1 (دقت رتبهٔ نخست)** | 0.2000 | **0.3750** | **+87.50%** |
+| **HR@3 (حضور در سه رتبهٔ نخست)** | 0.6000 | **0.8000** | **+33.33%** |
+| **HR@5 (حضور در پنج رتبهٔ نخست)** | 1.0000 | **1.0000** | 0.00% |
+| **MRR (معکوس رتبهٔ میانگین)** | 0.4567 | **0.6058** | **+32.66%** |
+| **NDCG@5 (کیفیت رتبه‌بندی)** | 0.5897 | **0.7042** | **+19.41%** |
 
-فایل‌های benchmarks/test_benchmark.json و benchmarks/agent_evaluation_results.json شامل نمونه‌ها و نتایج ارزیابی هستند و متن نظر کاربران را در بر دارند. استفاده از آن‌ها باید تابع شرایط منبع داده و الزامات حریم خصوصی باشد.
+---
 
-### نتایج ارزیابی گزارش‌شده
+## 📂 منبع داده‌ها
 
-اعداد زیر نتایج گزارش‌شده پروژه برای ۴۰ کاربر با نمونه‌گیری متوازن بر اساس دسته‌بندی هستند. بیس‌لاین تصادفی از رتبه‌بندی پنج گزینه تشکیل شده است.
+نظرات و تعاملات از مخزن عمومی داده‌های دیجی‌کالا گرفته شده‌اند:
 
-| معیار | عامل | بیس‌لاین تصادفی | بهبود نسبی |
-|---|---:|---:|---:|
-| تعداد نمونه | ۴۰ | ۴۰ | — |
-| HR@1 | 0.3750 | 0.2000 | +87.50% |
-| HR@3 | 0.8000 | 0.6000 | +33.33% |
-| HR@5 | 1.0000 | 1.0000 | — |
-| MRR | 0.6058 | 0.4567 | +32.66% |
-| NDCG@5 | 0.7042 | 0.5897 | +19.41% |
+- **مخزن مرجع داده:** [farshadnp/DigiKalaDataSet](https://github.com/farshadnp/DigiKalaDataSet)
+- **فایل مورد استفاده:** فایل keifiat.xlsx، شامل ۱۰۰ هزار نظر، مزایا، معایب و توصیه‌ها.
 
-این نتایج توصیفی‌اند و به نمونه کاربران، مدل، پرامپت و ساخت کاندیداها وابسته‌اند؛ به‌تنهایی معناداری آماری یا تعمیم‌پذیری را اثبات نمی‌کنند.
+**حجم و نگهداری داده:** فایل‌های حجیم صفحه‌گسترده در گیت نگهداری نمی‌شوند. فایل‌های کوچک ارزیابی در پوشه benchmarks قرار دارند. برای اجرای کامل، فایل keifiat.xlsx را دریافت و در پوشه data قرار دهید یا مسیر آن را با متغیر محیطی DIGIKALA_DATA_PATH مشخص کنید.
 
-### نصب و راه‌اندازی
+---
+
+## 🛠️ راهنمای راه‌اندازی و اجرا
+
+۱. ساخت و فعال‌سازی محیط مجازی پایتون:
 
 ~~~bash
 python -m venv .venv
+# در ویندوز پاورشل:
+.venv\Scripts\Activate.ps1
+# در لینوکس یا مک:
+source .venv/bin/activate
 ~~~
 
-در Windows PowerShell:
+۲. نصب وابستگی‌ها:
+
+~~~bash
+pip install -r requirements.txt
+~~~
+
+۳. تنظیم متغیرهای محیطی در پاورشل:
 
 ~~~powershell
-.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-$env:OPENAI_API_KEY = "your-api-key"
+$env:OPENAI_API_KEY = "your-api-key-here"
 $env:OPENAI_BASE_URL = "https://api.gapgpt.app/v1"
 $env:DIGIKALA_DATA_PATH = "data/keifiat.xlsx"
+~~~
+
+۴. اجرای دفترچهٔ ژوپیتر:
+
+~~~bash
 jupyter notebook notebooks/recmind_agentic_recommendation.ipynb
 ~~~
 
-در macOS یا Linux، محیط مجازی را با source .venv/bin/activate فعال و وابستگی‌ها را با pip install -r requirements.txt نصب کنید. OPENAI_API_KEY و OPENAI_BASE_URL را در محیط فرایند تنظیم کنید. کلید API را در کد یا فایل‌های تحت Git قرار ندهید. فراخوانی API ممکن است هزینه داشته باشد. اجرای نوت‌بوک می‌تواند فایل‌های JSON نتایج را بازنویسی کند؛ تغییرات را پیش از ثبت بررسی کنید.
+کلید دسترسی را در کد یا فایل‌های ثبت‌شده در گیت قرار ندهید. فراخوانی رابط برنامه‌نویسی ممکن است هزینه داشته باشد. اجرای دفترچه می‌تواند فایل‌های نتایج را بازنویسی کند؛ تغییرات را پیش از ثبت بررسی کنید.
 
-### ساختار مخزن
+## 📁 ساختار مخزن
 
 ~~~text
-.gitignore
-README.md
-requirements.txt
-benchmarks/
-  test_benchmark.json
-  agent_evaluation_results.json
-notebooks/
-  recmind_agentic_recommendation.ipynb
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── benchmarks/
+│   ├── test_benchmark.json
+│   └── agent_evaluation_results.json
+└── notebooks/
+    └── recmind_agentic_recommendation.ipynb
 ~~~
 
-### ارجاعات
+## 📚 منابع علمی
 
-- Wang, Y., Jiang, Z., Chen, Z., Yang, F., Zhou, Y., Cho, E., Fan, X., Huang, X., Lu, Y., & Yang, Y. (2024). “RecMind: Large Language Model Powered Agent For Recommendation.” Findings of the Association for Computational Linguistics: NAACL 2024, pp. 4351–4364. شناسه مقاله در arXiv: **2308.14296**.
-- مخزن داده دیجی‌کالا: [farshadnp/DigiKalaDataSet](https://github.com/farshadnp/DigiKalaDataSet).
-- شناسه **arXiv:2402.15235v3** مربوط به مقاله دیگری با عنوان “MACRec: A Multi-Agent Collaboration Framework for Recommendation” است، نه مقاله RecMind.
-
-## English
-
-### Overview
-
-This repository is a research prototype of an LLM-powered agentic recommender for Persian e-commerce reviews. It infers latent user preferences from review history, ranks five candidate products using the supplied evidence, and explains its choice. The design is inspired by RecMind; this project is not a full reproduction of that paper.
-
-### Architecture
-
-The notebook loads a local DigiKala review workbook, cleans recommendation labels and Persian text fields, forms user histories and candidate sets, queries an OpenAI-compatible chat completion endpoint, validates the ranking, and computes HR@K, MRR, and NDCG@5.
-
-### Data
-
-Raw Excel and CSV files are excluded from Git. Obtain keifiat.xlsx separately from [farshadnp/DigiKalaDataSet](https://github.com/farshadnp/DigiKalaDataSet), place it at data/keifiat.xlsx, or set DIGIKALA_DATA_PATH. The two JSON files under benchmarks contain review text and should be handled under the source dataset's terms and applicable privacy requirements.
-
-### Reported evaluation
-
-The supplied project results use 40 category-balanced users. These are descriptive results and depend on the sampled users, model, prompt, and candidate construction.
-
-| Metric | Agent | Random baseline | Relative lift |
-|---|---:|---:|---:|
-| Samples | 40 | 40 | — |
-| HR@1 | 0.3750 | 0.2000 | +87.50% |
-| HR@3 | 0.8000 | 0.6000 | +33.33% |
-| HR@5 | 1.0000 | 1.0000 | — |
-| MRR | 0.6058 | 0.4567 | +32.66% |
-| NDCG@5 | 0.7042 | 0.5897 | +19.41% |
-
-### Setup
-
-Install dependencies with pip install -r requirements.txt. Set OPENAI_API_KEY and OPENAI_BASE_URL=https://api.gapgpt.app/v1, optionally set DIGIKALA_DATA_PATH, then run the notebook at notebooks/recmind_agentic_recommendation.ipynb. API calls may incur provider charges.
-
-### References
-
-Wang et al. (2024), “RecMind: Large Language Model Powered Agent For Recommendation,” Findings of NAACL 2024, pp. 4351–4364, arXiv:2308.14296. The identifier arXiv:2402.15235v3 is MACRec, a separate paper. Dataset repository: farshadnp/DigiKalaDataSet.
+- وانگ و همکاران، ۲۰۲۴. «رِک‌مایند: عامل پیشنهاددهی مبتنی بر مدل زبانی بزرگ»، مجموعه مقالات یافته‌های همایش انجمن زبان‌شناسی رایانشی آمریکای شمالی، شناسهٔ arXiv:2308.14296.
+- مخزن عمومی داده‌های نظرات دیجی‌کالا: [DigiKalaDataSet از FarshadNP](https://github.com/farshadnp/DigiKalaDataSet).
